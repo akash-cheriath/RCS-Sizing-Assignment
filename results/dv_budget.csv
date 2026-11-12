@@ -1,0 +1,31 @@
+phase,category,config,dv_m_s,isp_s,efficiency,mass_start_kg,propellant_kg,mass_end_kg,note
+Detumble after launcher separation,attitude,combined,0,245,1,8000,0.21644953,7999.7836,factor x |I w0| / (arm Isp g0)
+Injection dispersion correction (3 sigma),rendezvous,combined,7.3769097,272,0.91637159,7999.7836,24.106621,7975.6769,altitude + plane (combined with circularisation)
+Drag make-up during phasing,rendezvous,combined,5.6340995,272,0.91637159,7975.6769,18.362442,7957.3145,phasing 18.6 h
+Orbit raise 200 -> 400 km,rendezvous,combined,121.48194,272,0.91637159,7957.3145,385.80662,7571.5079,Hohmann x (1 + dv margin)
+Terminal phase (TPI + midcourse + V-null),rendezvous,combined,1.12,272,0.91637159,7571.5079,3.4684841,7568.0394,Orion
+Rendezvous dispersions (3 sigma),rendezvous,combined,14.7,272,0.91637159,7568.0394,45.376843,7522.6625,Orion
+WP0 hold below the station (R-bar),prox-ops,combined,2.7647795,245,0.57734499,7522.6625,14.978806,7507.6837,3 n^2 z T
+WP0 -> WP1 transfer,prox-ops,combined,0.99610741,245,0.57734499,7507.6837,5.3893211,7502.2944,CW two-impulse |dv1| + |dv2|
+WP1 hold on +V-bar,prox-ops,combined,0.1,245,0.57734499,7502.2944,0.54082441,7501.7536,allowance
+V-bar approach WP1 -> WP2,prox-ops,combined,0.85254666,245,0.57734499,7501.7536,4.6091977,7497.1444,2 n v t + impulses
+WP2 hold + final approach + capture push,prox-ops,combined,0.32525467,245,0.57734499,7497.1444,1.7577064,7495.3867,allowance + 2 n x + impulse
+Prox-ops control allowance,prox-ops,combined,2.5193441,245,0.57734499,7495.3867,13.600819,7481.7859,"pulsing, navigation noise, cross-coupling"
+Collision avoidance manoeuvres,contingency,combined,3,272,0.91637159,7481.7859,9.1769602,7472.6089,CAM
+Retreat + second docking attempt,contingency,combined,3.5,245,0.57734499,7472.6089,18.830869,7453.778,CCT-REQ-1130
+Re-rendezvous after 24 h,contingency,combined,15,272,0.91637159,7453.778,45.60103,7408.177,CCT-REQ-1130
+Debris avoidance manoeuvres,contingency,combined,1,272,0.91637159,7408.177,3.0301304,7405.1469,free flight
+Undocking push,departure,combined,0.1,245,0.57734499,7405.1469,0.53382125,7404.6131,
+Departure burns,departure,combined,2.5,245,0.57734499,7404.6131,13.333032,7391.28,leave the approach ellipsoid
+Phasing for the landing opportunity,departure,combined,10,272,0.91637159,7391.28,30.176606,7361.1034,
+Deorbit burn,deorbit,combined,113.73019,272,0.91637159,7361.1034,334.65184,7026.4516,"impulsive 107.3 m/s, burn 9.78 min, finite-burn eta 0.990"
+Service module separation,mass event,combined,0,0,0,7026.4516,0,4026.4516,SM burns up
+Capsule raise burn,deorbit,capsule,2,245,0.57002396,4026.4516,5.8756449,4020.5759,lifts the capsule perigee
+Pre-entry 180 deg pitch,attitude,capsule,0,245,1,4020.5759,0.054867726,4020.5211,2 I w / (arm Isp g0)
+Bank reversals,attitude,capsule,0,245,1,4020.5211,7.3004128,4013.2207,count x 2 I w / (arm Isp g0)
+Entry rate damping,attitude,capsule,0,245,1,4013.2207,15,3998.2207,allowance
+Attitude hold limit cycle (free flight),attitude,combined,0,245,1,3998.2207,166.30127,3831.9194,"3 axes, deadband"
+Attitude slews,attitude,combined,0,245,1,3831.9194,3.2920636,3828.6273,count x 2 I w / (arm Isp g0)
+Attitude-control propellant margin (ESA),attitude,combined,0,245,1,3828.6273,192.16507,3636.4623,100 % of the attitude lines
+TOTAL usable propellant,total,-,308.70117,0,0,8000,1363.5377,0,
+Loaded propellant (incl. residuals),total,-,0,0,0,0,1405.709,0,/(1 - residual)

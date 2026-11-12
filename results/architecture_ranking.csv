@@ -1,0 +1,25 @@
+rank,arch_id,layout,family,n_thr,fault_tolerance,F_min_N,F_max_N,window_open,driver_min,driver_max,loaded_propellant_kg_baseline_thruster,stuck_on_ratio,classes_in_window
+1,04,Q24,Single ring,24,strict 2FT,147.97149,129.09369,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1405.709,3.8296948,none
+2,05,Q32,Single ring,32,strict 2FT,148.07374,129.09369,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1400.293,3.8296948,none
+3,16,2R32a,Double ring,32,strict 2FT,136.16987,118.67496,no,deorbit burn <= 15 min (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1422.81,4.8434994,none
+4,19,2R32d,Double ring,32,strict 2FT,136.20896,118.67496,no,deorbit burn <= 15 min (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1480.7501,5.4738306,none
+5,17,2R32b,Double ring,32,strict 2FT,136.2987,117.05078,no,deorbit burn <= 15 min (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1496.5179,4.8392842,none
+6,18,2R32c,Double ring,32,strict 2FT,136.25972,117.05078,no,deorbit burn <= 15 min (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1498.0032,5.4348304,none
+7,12,2R24a,Double ring,24,strict 2FT,158.86886,118.67496,no,bank reversal in 12 s (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1438.778,3.4911392,none
+8,15,2R24d,Double ring,24,strict 2FT,160.03412,118.67496,no,bank reversal in 12 s (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1504.7447,3.4260381,none
+9,14,2R24c,Double ring,24,strict 2FT,159.63177,117.05078,no,bank reversal in 12 s (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1519.7067,3.4744544,none
+10,13,2R24b,Double ring,24,strict 2FT,160.80829,117.05078,no,bank reversal in 12 s (none),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1532.5956,3.4095444,none
+11,07,H24,Single ring,24,strict 2FT,291.94569,127.96147,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1456.1517,3.5835766,none
+12,09,2R16b,Double ring,16,strict 2FT,365.06024,138.18589,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1517.149,2.4603961,none
+13,08,2R16a,Double ring,16,strict 2FT,376.82755,140.43659,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1431.2838,2.4773847,none
+14,10,2R16c,Double ring,16,strict 2FT,409.07253,140.43659,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1444.7,2.6873854,none
+15,11,2R16d,Double ring,16,strict 2FT,414.64824,138.18589,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1507.3064,2.6644418,none
+16,03,Q20,Single ring,20,relaxed 2FT,148.07374,129.09369,no,deorbit burn <= 30 min (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1400.293,2.828648,none
+17,20,D16a,Dragon-like,16,relaxed 2FT,312.12146,140.07486,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1548.8097,1.2500329,none
+18,24,D16e,Dragon-like,16,relaxed 2FT,319.06998,140.07486,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1539.1423,1.2575513,none
+19,23,D16d,Dragon-like,16,relaxed 2FT,314.5932,137.83536,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1583.7908,1.2876987,none
+20,06,T18,Single ring,18,relaxed 2FT,289.10908,127.02975,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1465.3569,2.8977821,none
+21,22,D16c,Dragon-like,16,relaxed 2FT,322.0569,140.07486,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1524.2868,1.2894888,none
+22,02,Q16,Single ring,16,relaxed 2FT,444.22121,129.09369,no,deorbit burn <= 20 min (1 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1409.6742,1.9148474,none
+23,01,Q12,Single ring,12,relaxed 2FT,2545.7538,129.09369,no,bank reversal in 15 s (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1425.2193,1.9148474,none
+24,21,D16b,Dragon-like,16,1FT only,383.13913,137.83536,no,bank reversal in 15 s (2 fail),single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),1567.0248,1.208501,none

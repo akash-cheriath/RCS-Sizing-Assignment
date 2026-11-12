@@ -1,0 +1,2 @@
+sm_mass_kg,sm_cg_x_m,sm_cg_y_m,sm_cg_z_m,sm_body_x_min_m,sm_body_x_max_m,inside_sm_body
+3000,-0.066666667,0,0.086666667,-3.5,0,yes

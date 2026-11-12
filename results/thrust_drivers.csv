@@ -1,0 +1,217 @@
+arch_id,layout,driver,bound,failure_case,F_N,F_relaxed_N,basis
+01,Q12,deorbit burn <= 15 min,min,none,295.67964,295.67964,m dv / t / a(-Fx)
+01,Q12,deorbit burn <= 20 min,min,1 fail,443.51946,443.51946,m dv / t / a1(-Fx)
+01,Q12,deorbit burn <= 30 min,min,2 fail,4.6043699e+11,310.98658,m dv / t / a2(-Fx)
+01,Q12,bank reversal in 12 s,min,none,282.38683,282.38683,I_vel (1+m) alpha / a_bank
+01,Q12,bank reversal in 15 s,min,2 fail,2545.7538,2545.7538,I_vel (1+m_f) alpha / a2_bank
+01,Q12,CAM 1.5 m/s in 30 s,min,2 fail,3.7588741e+11,228.49238,m dv / t / a2(-Fx)
+01,Q12,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,4.0423702,4.0423702,I (1+m) w0 / t / a
+01,Q12,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,129.09369,129.09369,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+01,Q12,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,1010.695,1010.695,mib_tol tol_v m / (tmin a_lat)
+02,Q16,deorbit burn <= 15 min,min,none,296.14747,296.14747,m dv / t / a(-Fx)
+02,Q16,deorbit burn <= 20 min,min,1 fail,444.22121,444.22121,m dv / t / a1(-Fx)
+02,Q16,deorbit burn <= 30 min,min,2 fail,4.6116551e+11,296.14747,m dv / t / a2(-Fx)
+02,Q16,bank reversal in 12 s,min,none,144.4035,144.4035,I_vel (1+m) alpha / a_bank
+02,Q16,bank reversal in 15 s,min,2 fail,167.80089,167.80089,I_vel (1+m_f) alpha / a2_bank
+02,Q16,CAM 1.5 m/s in 30 s,min,2 fail,3.7613313e+11,217.38787,m dv / t / a2(-Fx)
+02,Q16,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,2.3966043,2.3966043,I (1+m) w0 / t / a
+02,Q16,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,129.09369,129.09369,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+02,Q16,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,682.1831,682.1831,mib_tol tol_v m / (tmin a_lat)
+03,Q20,deorbit burn <= 15 min,min,none,148.07374,148.07374,m dv / t / a(-Fx)
+03,Q20,deorbit burn <= 20 min,min,1 fail,148.07374,148.07374,m dv / t / a1(-Fx)
+03,Q20,deorbit burn <= 30 min,min,2 fail,148.07374,148.07374,m dv / t / a2(-Fx)
+03,Q20,bank reversal in 12 s,min,none,142.73858,142.73858,I_vel (1+m) alpha / a_bank
+03,Q20,bank reversal in 15 s,min,2 fail,104.93166,104.93166,I_vel (1+m_f) alpha / a2_bank
+03,Q20,CAM 1.5 m/s in 30 s,min,2 fail,108.69394,108.69394,m dv / t / a2(-Fx)
+03,Q20,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.6214224,1.6214224,I (1+m) w0 / t / a
+03,Q20,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,129.09369,129.09369,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+03,Q20,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,682.1831,682.1831,mib_tol tol_v m / (tmin a_lat)
+04,Q24,deorbit burn <= 15 min,min,none,147.97149,147.97149,m dv / t / a(-Fx)
+04,Q24,deorbit burn <= 20 min,min,1 fail,147.97149,147.97149,m dv / t / a1(-Fx)
+04,Q24,deorbit burn <= 30 min,min,2 fail,147.97149,98.647657,m dv / t / a2(-Fx)
+04,Q24,bank reversal in 12 s,min,none,141.19342,141.19342,I_vel (1+m) alpha / a_bank
+04,Q24,bank reversal in 15 s,min,2 fail,101.36322,101.36322,I_vel (1+m_f) alpha / a2_bank
+04,Q24,CAM 1.5 m/s in 30 s,min,2 fail,108.69394,72.462624,m dv / t / a2(-Fx)
+04,Q24,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.5934948,1.5934948,I (1+m) w0 / t / a
+04,Q24,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,129.09369,129.09369,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+04,Q24,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,527.70642,527.70642,mib_tol tol_v m / (tmin a_lat)
+05,Q32,deorbit burn <= 15 min,min,none,148.07374,148.07374,m dv / t / a(-Fx)
+05,Q32,deorbit burn <= 20 min,min,1 fail,148.07374,148.07374,m dv / t / a1(-Fx)
+05,Q32,deorbit burn <= 30 min,min,2 fail,148.07374,98.715824,m dv / t / a2(-Fx)
+05,Q32,bank reversal in 12 s,min,none,72.201748,72.201748,I_vel (1+m) alpha / a_bank
+05,Q32,bank reversal in 15 s,min,2 fail,34.808954,34.808954,I_vel (1+m_f) alpha / a2_bank
+05,Q32,CAM 1.5 m/s in 30 s,min,2 fail,108.69394,72.462624,m dv / t / a2(-Fx)
+05,Q32,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,0.9290067,0.9290067,I (1+m) w0 / t / a
+05,Q32,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,129.09369,129.09369,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+05,Q32,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,341.09155,341.09155,mib_tol tol_v m / (tmin a_lat)
+06,T18,deorbit burn <= 15 min,min,none,192.73938,192.73938,m dv / t / a(-Fx)
+06,T18,deorbit burn <= 20 min,min,1 fail,289.10908,289.10908,m dv / t / a1(-Fx)
+06,T18,deorbit burn <= 30 min,min,2 fail,4.6091862e+11,192.73938,m dv / t / a2(-Fx)
+06,T18,bank reversal in 12 s,min,none,189.80643,189.80643,I_vel (1+m) alpha / a_bank
+06,T18,bank reversal in 15 s,min,2 fail,197.99185,197.99185,I_vel (1+m_f) alpha / a2_bank
+06,T18,CAM 1.5 m/s in 30 s,min,2 fail,3.7609488e+11,141.54227,m dv / t / a2(-Fx)
+06,T18,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,2.138176,2.138176,I (1+m) w0 / t / a
+06,T18,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,127.02975,127.02975,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+06,T18,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,765.39742,765.39742,mib_tol tol_v m / (tmin a_lat)
+07,H24,deorbit burn <= 15 min,min,none,194.63046,194.63046,m dv / t / a(-Fx)
+07,H24,deorbit burn <= 20 min,min,1 fail,218.95927,218.95927,m dv / t / a1(-Fx)
+07,H24,deorbit burn <= 30 min,min,2 fail,291.94569,145.97285,m dv / t / a2(-Fx)
+07,H24,bank reversal in 12 s,min,none,96.394335,96.394335,I_vel (1+m) alpha / a_bank
+07,H24,bank reversal in 15 s,min,2 fail,52.71036,52.71036,I_vel (1+m_f) alpha / a2_bank
+07,H24,CAM 1.5 m/s in 30 s,min,2 fail,214.27803,107.13901,m dv / t / a2(-Fx)
+07,H24,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.4664375,1.4664375,I (1+m) w0 / t / a
+07,H24,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,127.96147,127.96147,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+07,H24,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,502.19767,502.19767,mib_tol tol_v m / (tmin a_lat)
+08,2R16a,deorbit burn <= 15 min,min,none,271.53696,271.53696,m dv / t / a(-Fx)
+08,2R16a,deorbit burn <= 20 min,min,1 fail,294.97987,294.97987,m dv / t / a1(-Fx)
+08,2R16a,deorbit burn <= 30 min,min,2 fail,376.82755,196.65324,m dv / t / a2(-Fx)
+08,2R16a,bank reversal in 12 s,min,none,162.93125,162.93125,I_vel (1+m) alpha / a_bank
+08,2R16a,bank reversal in 15 s,min,2 fail,130.19662,130.19662,I_vel (1+m_f) alpha / a2_bank
+08,2R16a,CAM 1.5 m/s in 30 s,min,2 fail,277.3861,144.7582,m dv / t / a2(-Fx)
+08,2R16a,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.825269,1.825269,I (1+m) w0 / t / a
+08,2R16a,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,140.43659,140.43659,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+08,2R16a,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,797.22504,797.22504,mib_tol tol_v m / (tmin a_lat)
+09,2R16b,deorbit burn <= 15 min,min,none,270.97555,270.97555,m dv / t / a(-Fx)
+09,2R16b,deorbit burn <= 20 min,min,1 fail,298.01272,298.01272,m dv / t / a1(-Fx)
+09,2R16b,deorbit burn <= 30 min,min,2 fail,365.06024,198.67515,m dv / t / a2(-Fx)
+09,2R16b,bank reversal in 12 s,min,none,163.79999,163.79999,I_vel (1+m) alpha / a_bank
+09,2R16b,bank reversal in 15 s,min,2 fail,131.76017,131.76017,I_vel (1+m_f) alpha / a2_bank
+09,2R16b,CAM 1.5 m/s in 30 s,min,2 fail,269.23152,146.5227,m dv / t / a2(-Fx)
+09,2R16b,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,2.2378821,2.2378821,I (1+m) w0 / t / a
+09,2R16b,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,138.18589,138.18589,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+09,2R16b,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,1189.3529,1189.3529,mib_tol tol_v m / (tmin a_lat)
+10,2R16c,deorbit burn <= 15 min,min,none,271.57192,271.57192,m dv / t / a(-Fx)
+10,2R16c,deorbit burn <= 20 min,min,1 fail,280.51058,280.51058,m dv / t / a1(-Fx)
+10,2R16c,deorbit burn <= 30 min,min,2 fail,409.07253,187.00706,m dv / t / a2(-Fx)
+10,2R16c,bank reversal in 12 s,min,none,163.79999,163.79999,I_vel (1+m) alpha / a_bank
+10,2R16c,bank reversal in 15 s,min,2 fail,131.76017,131.76017,I_vel (1+m_f) alpha / a2_bank
+10,2R16c,CAM 1.5 m/s in 30 s,min,2 fail,301.22931,137.70665,m dv / t / a2(-Fx)
+10,2R16c,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.9092809,1.9092809,I (1+m) w0 / t / a
+10,2R16c,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,140.43659,140.43659,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+10,2R16c,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,920.14839,920.14839,mib_tol tol_v m / (tmin a_lat)
+11,2R16d,deorbit burn <= 15 min,min,none,271.28683,271.28683,m dv / t / a(-Fx)
+11,2R16d,deorbit burn <= 20 min,min,1 fail,284.33398,284.33398,m dv / t / a1(-Fx)
+11,2R16d,deorbit burn <= 30 min,min,2 fail,414.64824,189.55599,m dv / t / a2(-Fx)
+11,2R16d,bank reversal in 12 s,min,none,162.93125,162.93125,I_vel (1+m) alpha / a_bank
+11,2R16d,bank reversal in 15 s,min,2 fail,130.19662,130.19662,I_vel (1+m_f) alpha / a2_bank
+11,2R16d,CAM 1.5 m/s in 30 s,min,2 fail,305.50927,139.66323,m dv / t / a2(-Fx)
+11,2R16d,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.9602691,1.9602691,I (1+m) w0 / t / a
+11,2R16d,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,138.18589,138.18589,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+11,2R16d,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,956.03343,956.03343,mib_tol tol_v m / (tmin a_lat)
+12,2R24a,deorbit burn <= 15 min,min,none,135.92911,135.92911,m dv / t / a(-Fx)
+12,2R24a,deorbit burn <= 20 min,min,1 fail,128.93888,128.93888,m dv / t / a1(-Fx)
+12,2R24a,deorbit burn <= 30 min,min,2 fail,117.20052,85.959251,m dv / t / a2(-Fx)
+12,2R24a,bank reversal in 12 s,min,none,158.86886,158.86886,I_vel (1+m) alpha / a_bank
+12,2R24a,bank reversal in 15 s,min,2 fail,123.36377,123.36377,I_vel (1+m_f) alpha / a2_bank
+12,2R24a,CAM 1.5 m/s in 30 s,min,2 fail,86.286155,63.285496,m dv / t / a2(-Fx)
+12,2R24a,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.7890426,1.7890426,I (1+m) w0 / t / a
+12,2R24a,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,118.67496,118.67496,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+12,2R24a,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,585.47742,585.47742,mib_tol tol_v m / (tmin a_lat)
+13,2R24b,deorbit burn <= 15 min,min,none,135.72153,135.72153,m dv / t / a(-Fx)
+13,2R24b,deorbit burn <= 20 min,min,1 fail,129.74469,129.74469,m dv / t / a1(-Fx)
+13,2R24b,deorbit burn <= 30 min,min,2 fail,118.46965,86.496459,m dv / t / a2(-Fx)
+13,2R24b,bank reversal in 12 s,min,none,160.80829,160.80829,I_vel (1+m) alpha / a_bank
+13,2R24b,bank reversal in 15 s,min,2 fail,126.68577,126.68577,I_vel (1+m_f) alpha / a2_bank
+13,2R24b,CAM 1.5 m/s in 30 s,min,2 fail,87.370631,63.790601,m dv / t / a2(-Fx)
+13,2R24b,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.8073894,1.8073894,I (1+m) w0 / t / a
+13,2R24b,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,117.05078,117.05078,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+13,2R24b,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,813.83144,813.83144,mib_tol tol_v m / (tmin a_lat)
+14,2R24c,deorbit burn <= 15 min,min,none,135.91055,135.91055,m dv / t / a(-Fx)
+14,2R24c,deorbit burn <= 20 min,min,1 fail,128.92127,128.92127,m dv / t / a1(-Fx)
+14,2R24c,deorbit burn <= 30 min,min,2 fail,116.63964,85.947514,m dv / t / a2(-Fx)
+14,2R24c,bank reversal in 12 s,min,none,159.63177,159.63177,I_vel (1+m) alpha / a_bank
+14,2R24c,bank reversal in 15 s,min,2 fail,124.65911,124.65911,I_vel (1+m_f) alpha / a2_bank
+14,2R24c,CAM 1.5 m/s in 30 s,min,2 fail,85.912044,63.305462,m dv / t / a2(-Fx)
+14,2R24c,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.7962681,1.7962681,I (1+m) w0 / t / a
+14,2R24c,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,117.05078,117.05078,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+14,2R24c,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,641.22031,641.22031,mib_tol tol_v m / (tmin a_lat)
+15,2R24d,deorbit burn <= 15 min,min,none,135.82494,135.82494,m dv / t / a(-Fx)
+15,2R24d,deorbit burn <= 20 min,min,1 fail,129.84355,129.84355,m dv / t / a1(-Fx)
+15,2R24d,deorbit burn <= 30 min,min,2 fail,115.83858,86.562366,m dv / t / a2(-Fx)
+15,2R24d,bank reversal in 12 s,min,none,160.03412,160.03412,I_vel (1+m) alpha / a_bank
+15,2R24d,bank reversal in 15 s,min,2 fail,125.3482,125.3482,I_vel (1+m_f) alpha / a2_bank
+15,2R24d,CAM 1.5 m/s in 30 s,min,2 fail,85.363541,63.789371,m dv / t / a2(-Fx)
+15,2R24d,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,1.8000744,1.8000744,I (1+m) w0 / t / a
+15,2R24d,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,118.67496,118.67496,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+15,2R24d,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,691.24966,691.24966,mib_tol tol_v m / (tmin a_lat)
+16,2R32a,deorbit burn <= 15 min,min,none,136.16987,136.16987,m dv / t / a(-Fx)
+16,2R32a,deorbit burn <= 20 min,min,1 fail,116.71703,116.71703,m dv / t / a1(-Fx)
+16,2R32a,deorbit burn <= 30 min,min,2 fail,97.832269,77.811354,m dv / t / a2(-Fx)
+16,2R32a,bank reversal in 12 s,min,none,81.10425,81.10425,I_vel (1+m) alpha / a_bank
+16,2R32a,bank reversal in 15 s,min,2 fail,40.794035,40.794035,I_vel (1+m_f) alpha / a2_bank
+16,2R32a,CAM 1.5 m/s in 30 s,min,2 fail,71.930912,57.210588,m dv / t / a2(-Fx)
+16,2R32a,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,0.9102957,0.9102957,I (1+m) w0 / t / a
+16,2R32a,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,118.67496,118.67496,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+16,2R32a,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,401.88165,401.88165,mib_tol tol_v m / (tmin a_lat)
+17,2R32b,deorbit burn <= 15 min,min,none,136.2987,136.2987,m dv / t / a(-Fx)
+17,2R32b,deorbit burn <= 20 min,min,1 fail,116.82746,116.82746,m dv / t / a1(-Fx)
+17,2R32b,deorbit burn <= 30 min,min,2 fail,98.687525,77.884973,m dv / t / a2(-Fx)
+17,2R32b,bank reversal in 12 s,min,none,81.606703,81.606703,I_vel (1+m) alpha / a_bank
+17,2R32b,bank reversal in 15 s,min,2 fail,41.011311,41.011311,I_vel (1+m_f) alpha / a2_bank
+17,2R32b,CAM 1.5 m/s in 30 s,min,2 fail,72.515737,57.229991,m dv / t / a2(-Fx)
+17,2R32b,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,0.94602816,0.94602816,I (1+m) w0 / t / a
+17,2R32b,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,117.05078,117.05078,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+17,2R32b,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,507.00398,507.00398,mib_tol tol_v m / (tmin a_lat)
+18,2R32c,deorbit burn <= 15 min,min,none,136.25972,136.25972,m dv / t / a(-Fx)
+18,2R32c,deorbit burn <= 20 min,min,1 fail,116.79404,116.79404,m dv / t / a1(-Fx)
+18,2R32c,deorbit burn <= 30 min,min,2 fail,96.17978,77.862696,m dv / t / a2(-Fx)
+18,2R32c,bank reversal in 12 s,min,none,81.302614,81.302614,I_vel (1+m) alpha / a_bank
+18,2R32c,bank reversal in 15 s,min,2 fail,40.934692,40.934692,I_vel (1+m_f) alpha / a2_bank
+18,2R32c,CAM 1.5 m/s in 30 s,min,2 fail,70.684186,57.222645,m dv / t / a2(-Fx)
+18,2R32c,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,0.91216265,0.91216265,I (1+m) w0 / t / a
+18,2R32c,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,117.05078,117.05078,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+18,2R32c,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,437.73105,437.73105,mib_tol tol_v m / (tmin a_lat)
+19,2R32d,deorbit burn <= 15 min,min,none,136.20896,136.20896,m dv / t / a(-Fx)
+19,2R32d,deorbit burn <= 20 min,min,1 fail,116.75053,116.75053,m dv / t / a1(-Fx)
+19,2R32d,deorbit burn <= 30 min,min,2 fail,96.892774,77.83369,m dv / t / a2(-Fx)
+19,2R32d,bank reversal in 12 s,min,none,81.406855,81.406855,I_vel (1+m) alpha / a_bank
+19,2R32d,bank reversal in 15 s,min,2 fail,40.870128,40.870128,I_vel (1+m_f) alpha / a2_bank
+19,2R32d,CAM 1.5 m/s in 30 s,min,2 fail,71.228368,57.217545,m dv / t / a2(-Fx)
+19,2R32d,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,0.91314315,0.91314315,I (1+m) w0 / t / a
+19,2R32d,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,118.67496,118.67496,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+19,2R32d,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,459.36123,459.36123,mib_tol tol_v m / (tmin a_lat)
+20,D16a,deorbit burn <= 15 min,min,none,292.1295,292.1295,m dv / t / a(-Fx)
+20,D16a,deorbit burn <= 20 min,min,1 fail,312.12146,312.12146,m dv / t / a1(-Fx)
+20,D16a,deorbit burn <= 30 min,min,2 fail,4.5490865e+11,291.82404,m dv / t / a2(-Fx)
+20,D16a,bank reversal in 12 s,min,none,146.84464,146.84464,I_vel (1+m) alpha / a_bank
+20,D16a,bank reversal in 15 s,min,2 fail,168.30387,168.30387,I_vel (1+m_f) alpha / a2_bank
+20,D16a,CAM 1.5 m/s in 30 s,min,2 fail,3.7241856e+11,215.01595,m dv / t / a2(-Fx)
+20,D16a,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,10.200666,10.200666,I (1+m) w0 / t / a
+20,D16a,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,140.07486,140.07486,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+20,D16a,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,852.13845,852.13845,mib_tol tol_v m / (tmin a_lat)
+21,D16b,deorbit burn <= 15 min,min,none,286.63611,286.63611,m dv / t / a(-Fx)
+21,D16b,deorbit burn <= 20 min,min,1 fail,306.25213,306.25213,m dv / t / a1(-Fx)
+21,D16b,deorbit burn <= 30 min,min,2 fail,4.5697604e+11,286.63611,m dv / t / a2(-Fx)
+21,D16b,bank reversal in 12 s,min,none,147.72074,147.72074,I_vel (1+m) alpha / a_bank
+21,D16b,bank reversal in 15 s,min,2 fail,383.13913,383.13913,I_vel (1+m_f) alpha / a2_bank
+21,D16b,CAM 1.5 m/s in 30 s,min,2 fail,3.7361681e+11,210.91448,m dv / t / a2(-Fx)
+21,D16b,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,16.365342,16.365342,I (1+m) w0 / t / a
+21,D16b,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,137.83536,137.83536,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+21,D16b,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,1044.6279,1044.6279,mib_tol tol_v m / (tmin a_lat)
+22,D16c,deorbit burn <= 15 min,min,none,292.88402,292.88402,m dv / t / a(-Fx)
+22,D16c,deorbit burn <= 20 min,min,1 fail,322.0569,322.0569,m dv / t / a1(-Fx)
+22,D16c,deorbit burn <= 30 min,min,2 fail,378.41474,292.57777,m dv / t / a2(-Fx)
+22,D16c,bank reversal in 12 s,min,none,147.11242,147.11242,I_vel (1+m) alpha / a_bank
+22,D16c,bank reversal in 15 s,min,2 fail,161.75844,161.75844,I_vel (1+m_f) alpha / a2_bank
+22,D16c,CAM 1.5 m/s in 30 s,min,2 fail,278.37481,215.23019,m dv / t / a2(-Fx)
+22,D16c,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,8.7793766,8.7793766,I (1+m) w0 / t / a
+22,D16c,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,140.07486,140.07486,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+22,D16c,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,880.77522,880.77522,mib_tol tol_v m / (tmin a_lat)
+23,D16d,deorbit burn <= 15 min,min,none,286.09641,286.09641,m dv / t / a(-Fx)
+23,D16d,deorbit burn <= 20 min,min,1 fail,314.5932,314.5932,m dv / t / a1(-Fx)
+23,D16d,deorbit burn <= 30 min,min,2 fail,407.06361,286.09641,m dv / t / a2(-Fx)
+23,D16d,bank reversal in 12 s,min,none,147.72074,147.72074,I_vel (1+m) alpha / a_bank
+23,D16d,bank reversal in 15 s,min,2 fail,194.78787,194.78787,I_vel (1+m_f) alpha / a2_bank
+23,D16d,CAM 1.5 m/s in 30 s,min,2 fail,299.95157,210.81488,m dv / t / a2(-Fx)
+23,D16d,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,11.993836,11.993836,I (1+m) w0 / t / a
+23,D16d,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,137.83536,137.83536,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+23,D16d,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,1005.3756,1005.3756,mib_tol tol_v m / (tmin a_lat)
+24,D16e,deorbit burn <= 15 min,min,none,292.36772,292.36772,m dv / t / a(-Fx)
+24,D16e,deorbit burn <= 20 min,min,1 fail,319.06998,319.06998,m dv / t / a1(-Fx)
+24,D16e,deorbit burn <= 30 min,min,2 fail,443.33362,292.06201,m dv / t / a2(-Fx)
+24,D16e,bank reversal in 12 s,min,none,147.26454,147.26454,I_vel (1+m) alpha / a_bank
+24,D16e,bank reversal in 15 s,min,2 fail,205.49148,205.49148,I_vel (1+m_f) alpha / a2_bank
+24,D16e,CAM 1.5 m/s in 30 s,min,2 fail,326.61607,215.17011,m dv / t / a2(-Fx)
+24,D16e,detumble 2.0 deg/s in 60.0 s,min,none / 1 fail,9.8864167,9.8864167,I (1+m) w0 / t / a
+24,D16e,single-jet rotation pulse <= 25 % of IDSS rate tol (pitch/yaw vector sum),max,-,140.07486,140.07486,mib_tol tol / (tmin dw_py); roll: mib_tol tol Ixx / (tmin arm_x)
+24,D16e,single lateral pulse <= 25 % of IDSS lateral-rate tol,max,-,825.4904,825.4904,mib_tol tol_v m / (tmin a_lat)

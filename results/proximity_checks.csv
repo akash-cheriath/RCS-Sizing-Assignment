@@ -1,0 +1,8 @@
+id,requirement,value,limit,status,note
+MIS-04a,WP0 -> WP1 transfer outside the KOS,closest 220 m at 27.8 min,"> 200 m, margin 10 %",PASS,closest point is WP1 itself
+MIS-04c,WP1 braking burn missed: no KOS entry,enters after 1.9 min,within 24 h,FLAG,arrival speed 0.19 m/s; not passively safe: the WP1 braking burn is safety-critical (backed up by the 1-fault-tolerant RCS; otherwise a CAM within that time)
+MIS-04b,final approach inside the approach corridor,on the +V-bar docking axis (0 deg),"+-10 deg: half-width 35.3 m at the KOS, 3.5 m at WP2",PASS,by design; lateral fine control = thrust-window driver 'single lateral pulse'
+RCS-15a,"nominal departure: inside the cone, leaves the KOS, no re-entry","max 19.1 deg, exit after 5.7 min, no re-entry","<= 20 deg, 24 h",PASS,passes over the station at 1449 m
+RCS-15b,DB0 missed (push only): passes over the station outside the KOS,overflight at 128 m,> 200 m,FLAG,not passively safe: DB0 is safety-critical (backed up by the 1-fault-tolerant RCS)
+RCS-15c,DB1 missed (push + DB0): no KOS re-entry,"no re-entry, overflight at 880 m",24 h,PASS,
+RCS-15d,departure burns inside the budget line,1.20 m/s (DB0 + DB1),<= 2.50 m/s (departure_dv),PASS,

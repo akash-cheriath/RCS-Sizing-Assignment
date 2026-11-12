@@ -1,0 +1,481 @@
+arch_id,layout,family,nozzle,cant_deg,admissible,fault_tolerance,F_min_N,F_max_N,window_ratio,window_open,loaded_propellant_kg,classes_in_window,config_value,best
+01,Q12,Single ring,fwd,0,no,relaxed 2FT,4097.4263,121.30839,0.029605997,no,1357.1694,none,no,no
+01,Q12,Single ring,fwd,5,no,relaxed 2FT,3569.3374,121.77177,0.034116071,no,1365.6411,none,no,no
+01,Q12,Single ring,fwd,10,no,relaxed 2FT,3158.5571,123.17977,0.038998746,no,1379.4533,none,no,no
+01,Q12,Single ring,fwd,15,no,relaxed 2FT,2825.3488,125.58769,0.04445033,no,1399.0574,none,no,no
+01,Q12,Single ring,fwd,20,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1425.2193,none,yes,no
+01,Q12,Single ring,fwd,25,yes,relaxed 2FT,2304.4023,133.849,0.058084041,no,1459.0914,none,no,no
+01,Q12,Single ring,fwd,30,yes,relaxed 2FT,2090.9144,140.07486,0.066992154,no,1502.3303,none,no,yes
+01,Q12,Single ring,aft,20,no,relaxed 2FT,3033.9112,129.09369,0.042550254,no,1427.0834,none,no,no
+01,Q12,Single ring,aft,25,no,relaxed 2FT,2757.9435,129.09369,0.046807954,no,1426.0849,none,no,no
+01,Q12,Single ring,aft,30,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1425.2193,none,yes,no
+01,Q12,Single ring,aft,35,yes,relaxed 2FT,2380.7064,129.09369,0.054224952,no,1424.4692,none,no,no
+01,Q12,Single ring,aft,40,yes,relaxed 2FT,2251.8514,129.09369,0.057327802,no,1423.8188,none,no,no
+01,Q12,Single ring,aft,45,yes,relaxed 2FT,2151.7641,129.09369,0.059994353,no,1423.2547,none,no,yes
+01,Q12,Single ring,roll,0,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1419.6165,none,no,no
+01,Q12,Single ring,roll,5,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1422.4268,none,no,no
+01,Q12,Single ring,roll,10,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1425.2193,none,yes,yes
+01,Q12,Single ring,roll,15,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1428.4307,none,no,no
+01,Q12,Single ring,roll,20,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1432.8481,none,no,no
+01,Q12,Single ring,roll,25,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1440.0314,none,no,no
+01,Q12,Single ring,roll,30,yes,relaxed 2FT,2545.7538,129.09369,0.050709418,no,1443.6971,none,no,no
+02,Q16,Single ring,fwd,0,no,relaxed 2FT,419.8787,121.30839,0.28891294,no,1348.8356,none,no,no
+02,Q16,Single ring,fwd,5,no,relaxed 2FT,421.23644,121.77177,0.28908176,no,1355.6571,none,no,no
+02,Q16,Single ring,fwd,10,no,relaxed 2FT,425.62083,123.17977,0.28941198,no,1367.7279,none,no,no
+02,Q16,Single ring,fwd,15,no,relaxed 2FT,433.18912,125.58769,0.28991422,no,1385.485,none,no,no
+02,Q16,Single ring,fwd,20,yes,relaxed 2FT,444.22121,129.09369,0.29060677,no,1409.6742,none,yes,yes
+02,Q16,Single ring,fwd,25,yes,relaxed 2FT,459.14558,133.849,0.29151756,no,1441.4203,none,no,no
+02,Q16,Single ring,fwd,30,yes,relaxed 2FT,478.58175,140.07486,0.29268743,no,1482.3427,none,no,no
+02,Q16,Single ring,aft,20,no,relaxed 2FT,444.16764,129.09369,0.29064182,no,1410.6121,none,no,no
+02,Q16,Single ring,aft,25,no,relaxed 2FT,444.19748,129.09369,0.2906223,no,1410.0894,none,no,no
+02,Q16,Single ring,aft,30,yes,relaxed 2FT,444.22121,129.09369,0.29060677,no,1409.6742,none,yes,yes
+02,Q16,Single ring,aft,35,yes,relaxed 2FT,444.23933,129.09369,0.29059492,no,1409.3575,none,no,no
+02,Q16,Single ring,aft,40,yes,relaxed 2FT,444.2523,129.09369,0.29058644,no,1409.1314,none,no,no
+02,Q16,Single ring,aft,45,yes,relaxed 2FT,444.26051,129.09369,0.29058106,no,1408.9888,none,no,no
+02,Q16,Single ring,roll,0,yes,relaxed 2FT,444.13185,129.09369,0.29066524,no,1413.5352,none,no,no
+02,Q16,Single ring,roll,5,yes,relaxed 2FT,444.17487,129.09369,0.29063709,no,1412.0889,none,no,no
+02,Q16,Single ring,roll,10,yes,relaxed 2FT,444.22121,129.09369,0.29060677,no,1409.6742,none,yes,yes
+02,Q16,Single ring,roll,15,yes,relaxed 2FT,444.24268,129.09369,0.29059273,no,1406.7686,none,no,no
+02,Q16,Single ring,roll,20,yes,relaxed 2FT,444.24179,129.09369,0.29059331,no,1403.3238,none,no,no
+02,Q16,Single ring,roll,25,yes,relaxed 2FT,444.2201,129.09369,0.2906075,no,1399.3244,none,no,no
+02,Q16,Single ring,roll,30,yes,relaxed 2FT,444.17848,129.09369,0.29063473,no,1394.7815,none,no,no
+03,Q20,Single ring,fwd,0,no,relaxed 2FT,144.60056,121.30839,0.83892063,no,1341.094,none,no,no
+03,Q20,Single ring,fwd,5,no,relaxed 2FT,144.14414,121.77177,0.84479169,no,1347.7921,none,no,no
+03,Q20,Single ring,fwd,10,no,relaxed 2FT,143.68648,123.17977,0.85728153,no,1359.5665,none,no,no
+03,Q20,Single ring,fwd,15,no,relaxed 2FT,144.39637,125.58769,0.86974267,no,1376.8317,none,no,no
+03,Q20,Single ring,fwd,20,yes,relaxed 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+03,Q20,Single ring,fwd,25,yes,relaxed 2FT,153.04853,133.849,0.87455268,no,1431.01,none,no,no
+03,Q20,Single ring,fwd,30,yes,relaxed 2FT,159.52725,140.07486,0.8780623,no,1470.5002,none,no,no
+03,Q20,Single ring,aft,20,no,relaxed 2FT,148.05588,129.09369,0.87192547,no,1401.2345,none,no,no
+03,Q20,Single ring,aft,25,no,relaxed 2FT,148.06583,129.09369,0.87186689,no,1400.7098,none,no,no
+03,Q20,Single ring,aft,30,yes,relaxed 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+03,Q20,Single ring,aft,35,yes,relaxed 2FT,148.07978,129.09369,0.87178475,no,1399.9751,none,no,no
+03,Q20,Single ring,aft,40,yes,relaxed 2FT,148.0841,129.09369,0.87175931,no,1399.7481,none,no,no
+03,Q20,Single ring,aft,45,yes,relaxed 2FT,148.08684,129.09369,0.87174319,no,1399.605,none,no,no
+03,Q20,Single ring,roll,0,yes,relaxed 2FT,148.04395,129.09369,0.87199573,no,1404.1244,none,no,no
+03,Q20,Single ring,roll,5,yes,relaxed 2FT,148.05829,129.09369,0.87191127,no,1402.6952,none,no,no
+03,Q20,Single ring,roll,10,yes,relaxed 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+03,Q20,Single ring,roll,15,yes,relaxed 2FT,148.08089,129.09369,0.87177819,no,1397.3981,none,no,no
+03,Q20,Single ring,roll,20,yes,relaxed 2FT,149.44786,129.09369,0.86380424,no,1393.9627,none,no,no
+03,Q20,Single ring,roll,25,yes,relaxed 2FT,154.83335,129.09369,0.83375894,no,1389.972,none,no,no
+03,Q20,Single ring,roll,30,yes,relaxed 2FT,161.87174,129.09369,0.79750607,no,1385.4373,none,no,no
+04,Q24,Single ring,fwd,0,no,strict 2FT,143.40774,121.30839,0.84589849,no,1348.7602,none,no,no
+04,Q24,Single ring,fwd,5,no,strict 2FT,142.78844,121.77177,0.85281254,no,1354.8047,none,no,no
+04,Q24,Single ring,fwd,10,no,strict 2FT,142.21074,123.17977,0.86617769,no,1365.9964,none,no,no
+04,Q24,Single ring,fwd,15,no,strict 2FT,144.28817,125.58769,0.87039492,no,1382.7337,none,no,no
+04,Q24,Single ring,fwd,20,yes,strict 2FT,147.97149,129.09369,0.87242276,no,1405.709,none,yes,yes
+04,Q24,Single ring,fwd,25,yes,strict 2FT,152.95119,133.849,0.87510925,no,1435.9711,none,no,no
+04,Q24,Single ring,fwd,30,yes,strict 2FT,159.43399,140.07486,0.87857589,no,1475.0282,none,no,no
+04,Q24,Single ring,aft,20,no,strict 2FT,147.93489,129.09369,0.87263858,no,1407.6419,none,no,no
+04,Q24,Single ring,aft,25,no,strict 2FT,147.95452,129.09369,0.87252278,no,1406.6048,none,no,no
+04,Q24,Single ring,aft,30,yes,strict 2FT,147.97149,129.09369,0.87242276,no,1405.709,none,yes,yes
+04,Q24,Single ring,aft,35,yes,strict 2FT,147.98611,129.09369,0.87233655,no,1404.9369,none,no,no
+04,Q24,Single ring,aft,40,yes,strict 2FT,147.99869,129.09369,0.87226238,no,1404.2726,none,no,no
+04,Q24,Single ring,aft,45,yes,strict 2FT,148.0095,129.09369,0.8721987,no,1403.7023,none,no,no
+04,Q24,Single ring,roll,0,yes,strict 2FT,147.93807,129.09369,0.8726198,no,1409.7327,none,no,no
+04,Q24,Single ring,roll,5,yes,strict 2FT,147.95453,129.09369,0.87252273,no,1408.1907,none,no,no
+04,Q24,Single ring,roll,10,yes,strict 2FT,147.97149,129.09369,0.87242276,no,1405.709,none,yes,yes
+04,Q24,Single ring,roll,15,yes,strict 2FT,147.98101,129.09369,0.87236661,no,1402.6889,none,no,no
+04,Q24,Single ring,roll,20,yes,strict 2FT,147.98401,129.09369,0.87234895,no,1399.0792,none,no,no
+04,Q24,Single ring,roll,25,yes,strict 2FT,152.83435,129.09369,0.8446641,no,1394.8603,none,no,no
+04,Q24,Single ring,roll,30,yes,strict 2FT,159.58607,129.09369,0.80892833,no,1390.0376,none,no,no
+05,Q32,Single ring,fwd,0,no,strict 2FT,139.95957,121.30839,0.86673882,no,1341.094,none,no,no
+05,Q32,Single ring,fwd,5,no,strict 2FT,140.41215,121.77177,0.86724527,no,1347.7921,none,no,no
+05,Q32,Single ring,fwd,10,no,strict 2FT,141.87361,123.17977,0.86823594,no,1359.5665,none,no,no
+05,Q32,Single ring,fwd,15,no,strict 2FT,144.39637,125.58769,0.86974267,no,1376.8317,none,no,no
+05,Q32,Single ring,fwd,20,yes,strict 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+05,Q32,Single ring,fwd,25,yes,strict 2FT,153.04853,133.849,0.87455268,no,1431.01,none,no,no
+05,Q32,Single ring,fwd,30,yes,strict 2FT,159.52725,140.07486,0.8780623,no,1470.5002,none,no,no
+05,Q32,Single ring,aft,20,no,strict 2FT,148.05588,129.09369,0.87192547,no,1401.2345,none,no,no
+05,Q32,Single ring,aft,25,no,strict 2FT,148.06583,129.09369,0.87186689,no,1400.7098,none,no,no
+05,Q32,Single ring,aft,30,yes,strict 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+05,Q32,Single ring,aft,35,yes,strict 2FT,148.07978,129.09369,0.87178475,no,1399.9751,none,no,no
+05,Q32,Single ring,aft,40,yes,strict 2FT,148.0841,129.09369,0.87175931,no,1399.7481,none,no,no
+05,Q32,Single ring,aft,45,yes,strict 2FT,148.08684,129.09369,0.87174319,no,1399.605,none,no,no
+05,Q32,Single ring,roll,0,yes,strict 2FT,148.04395,129.09369,0.87199573,no,1404.1244,none,no,no
+05,Q32,Single ring,roll,5,yes,strict 2FT,148.05829,129.09369,0.87191127,no,1402.6952,none,no,no
+05,Q32,Single ring,roll,10,yes,strict 2FT,148.07374,129.09369,0.87182032,no,1400.293,none,yes,yes
+05,Q32,Single ring,roll,15,yes,strict 2FT,148.08089,129.09369,0.87177819,no,1397.3981,none,no,no
+05,Q32,Single ring,roll,20,yes,strict 2FT,148.0806,129.09369,0.87177993,no,1393.9627,none,no,no
+05,Q32,Single ring,roll,25,yes,strict 2FT,148.07337,129.09369,0.8718225,no,1389.972,none,no,no
+05,Q32,Single ring,roll,30,yes,strict 2FT,148.05949,129.09369,0.87190419,no,1385.4373,none,no,no
+06,T18,Single ring,fwd,0,no,relaxed 2FT,273.19733,119.36892,0.43693296,no,1411.2049,none,no,no
+06,T18,Single ring,fwd,5,no,relaxed 2FT,274.10628,119.82489,0.43714755,no,1417.0647,none,no,no
+06,T18,Single ring,fwd,10,no,relaxed 2FT,276.98307,121.21038,0.43760934,no,1427.6045,none,no,no
+06,T18,Single ring,fwd,15,no,relaxed 2FT,281.93121,123.5798,0.43833317,no,1443.2324,none,no,no
+06,T18,Single ring,fwd,20,yes,relaxed 2FT,289.10908,127.02975,0.43938348,no,1465.3569,none,yes,yes
+06,T18,Single ring,fwd,25,yes,relaxed 2FT,298.80504,131.70903,0.44078583,no,1494.7078,none,no,no
+06,T18,Single ring,fwd,30,yes,relaxed 2FT,311.43711,137.83536,0.44257846,no,1532.4469,none,no,no
+06,T18,Single ring,aft,20,no,relaxed 2FT,289.03904,127.02975,0.43948994,no,1467.2249,none,no,no
+06,T18,Single ring,aft,25,no,relaxed 2FT,289.08916,127.02975,0.43941375,no,1465.8823,none,no,no
+06,T18,Single ring,aft,30,yes,relaxed 2FT,289.10908,127.02975,0.43938348,no,1465.3569,none,yes,yes
+06,T18,Single ring,aft,35,yes,relaxed 2FT,289.12302,127.02975,0.43936228,no,1464.9807,none,no,no
+06,T18,Single ring,aft,40,yes,relaxed 2FT,289.13636,127.02975,0.43934201,no,1464.6211,none,no,no
+06,T18,Single ring,aft,45,yes,relaxed 2FT,289.14883,127.02975,0.43932307,no,1464.2851,none,no,no
+06,T18,Single ring,roll,0,yes,relaxed 2FT,289.2265,127.02975,0.4392051,no,1463.4448,none,no,no
+06,T18,Single ring,roll,5,yes,relaxed 2FT,289.11907,127.02975,0.43936828,no,1466.2088,none,no,no
+06,T18,Single ring,roll,10,yes,relaxed 2FT,289.10908,127.02975,0.43938348,no,1465.3569,none,yes,yes
+06,T18,Single ring,roll,15,yes,relaxed 2FT,289.07958,127.02975,0.43942831,no,1464.105,none,no,no
+06,T18,Single ring,roll,20,yes,relaxed 2FT,289.02655,127.02975,0.43950894,no,1462.6361,none,no,no
+06,T18,Single ring,roll,25,yes,relaxed 2FT,288.94361,127.02975,0.43963509,no,1461.2347,none,no,no
+06,T18,Single ring,roll,30,yes,relaxed 2FT,288.82015,127.02975,0.43982302,no,1460.3631,none,no,no
+07,H24,Single ring,fwd,0,no,strict 2FT,275.86441,120.24444,0.43588242,no,1404.0552,none,no,no
+07,H24,Single ring,fwd,5,no,strict 2FT,276.77606,120.70376,0.43610622,no,1409.6792,none,no,no
+07,H24,Single ring,fwd,10,no,strict 2FT,279.67729,122.09941,0.43657248,no,1419.9107,none,no,no
+07,H24,Single ring,fwd,15,no,strict 2FT,284.67221,124.48621,0.43729666,no,1435.1642,none,no,no
+07,H24,Single ring,fwd,20,yes,strict 2FT,291.94569,127.96147,0.43830572,no,1456.1517,none,yes,yes
+07,H24,Single ring,fwd,25,yes,strict 2FT,301.78049,132.67507,0.43964097,no,1483.9467,none,no,no
+07,H24,Single ring,fwd,30,yes,strict 2FT,314.58535,138.84633,0.44136297,no,1520.0895,none,no,no
+07,H24,Single ring,aft,20,no,strict 2FT,291.91472,127.96147,0.43835222,no,1456.9796,none,no,no
+07,H24,Single ring,aft,25,no,strict 2FT,291.93236,127.96147,0.43832573,no,1456.5078,none,no,no
+07,H24,Single ring,aft,30,yes,strict 2FT,291.94569,127.96147,0.43830572,no,1456.1517,none,yes,yes
+07,H24,Single ring,aft,35,yes,strict 2FT,291.95498,127.96147,0.43829176,no,1455.904,none,no,no
+07,H24,Single ring,aft,40,yes,strict 2FT,291.96049,127.96147,0.43828349,no,1455.7578,none,no,no
+07,H24,Single ring,aft,45,yes,strict 2FT,291.96243,127.96147,0.43828058,no,1455.7074,none,no,no
+07,H24,Single ring,roll,0,yes,strict 2FT,292.03321,127.96147,0.43817436,no,1455.1581,none,no,no
+07,H24,Single ring,roll,5,yes,strict 2FT,291.94515,127.96147,0.43830654,no,1457.3589,none,no,no
+07,H24,Single ring,roll,10,yes,strict 2FT,291.94569,127.96147,0.43830572,no,1456.1517,none,yes,yes
+07,H24,Single ring,roll,15,yes,strict 2FT,291.93443,127.96147,0.43832262,no,1454.241,none,no,no
+07,H24,Single ring,roll,20,yes,strict 2FT,291.91093,127.96147,0.43835792,no,1451.663,none,no,no
+07,H24,Single ring,roll,25,yes,strict 2FT,291.87443,127.96147,0.43841274,no,1448.4741,none,no,no
+07,H24,Single ring,roll,30,yes,strict 2FT,292.01854,127.96147,0.43819638,no,1439.5158,none,no,no
+08,2R16a,Double ring,fwd,0,no,strict 2FT,379.55847,140.43659,0.36999987,no,1342.3874,none,no,no
+08,2R16a,Double ring,fwd,5,no,strict 2FT,379.20857,140.43659,0.37034128,no,1354.044,none,no,no
+08,2R16a,Double ring,fwd,10,no,strict 2FT,378.64852,140.43659,0.37088904,no,1372.3707,none,no,no
+08,2R16a,Double ring,fwd,15,no,strict 2FT,377.863,140.43659,0.37166007,no,1397.8563,none,no,no
+08,2R16a,Double ring,fwd,20,yes,strict 2FT,376.82755,140.43659,0.37268132,no,1431.2838,none,yes,yes
+08,2R16a,Double ring,fwd,25,yes,strict 2FT,375.50628,140.43659,0.37399264,no,1473.8034,none,no,no
+08,2R16a,Double ring,fwd,30,yes,strict 2FT,373.84824,140.43659,0.37565133,no,1527.052,none,no,no
+08,2R16a,Double ring,aft,20,no,strict 2FT,376.97337,129.15842,0.34261948,no,1443.0157,none,no,no
+08,2R16a,Double ring,aft,25,no,strict 2FT,376.90855,134.04955,0.35565538,no,1437.6428,none,no,no
+08,2R16a,Double ring,aft,30,yes,strict 2FT,376.82755,140.43659,0.37268132,no,1431.2838,none,yes,no
+08,2R16a,Double ring,aft,35,yes,strict 2FT,376.72731,148.65064,0.39458418,no,1424.8072,none,no,no
+08,2R16a,Double ring,aft,40,yes,strict 2FT,376.60366,159.1719,0.42265096,no,1421.9077,none,no,no
+08,2R16a,Double ring,aft,45,yes,strict 2FT,376.45019,167.78378,0.44569981,no,1419.0522,none,no,yes
+08,2R16a,Double ring,roll,0,yes,strict 2FT,305.95962,140.43659,0.45900366,no,1422.3715,none,no,yes
+08,2R16a,Double ring,roll,5,yes,strict 2FT,336.43987,140.43659,0.41741957,no,1426.5735,none,no,no
+08,2R16a,Double ring,roll,10,yes,strict 2FT,376.82755,140.43659,0.37268132,no,1431.2838,none,yes,no
+08,2R16a,Double ring,roll,15,yes,strict 2FT,431.94628,140.43659,0.32512512,no,1437.8282,none,no,no
+08,2R16a,Double ring,roll,20,yes,strict 2FT,510.47823,140.43659,0.27510789,no,1449.7918,none,no,no
+08,2R16a,Double ring,roll,25,yes,strict 2FT,629.74845,140.43659,0.22300426,no,1465.7218,none,no,no
+08,2R16a,Double ring,roll,30,yes,strict 2FT,829.99946,140.43659,0.16920082,no,1490.6746,none,no,no
+09,2R16b,Double ring,fwd,0,no,strict 2FT,367.77334,138.18589,0.37573656,no,1426.129,none,no,no
+09,2R16b,Double ring,fwd,5,no,strict 2FT,367.42426,138.18589,0.37609354,no,1438.1923,none,no,no
+09,2R16b,Double ring,fwd,10,no,strict 2FT,366.86578,138.18589,0.37666607,no,1457.0356,none,no,no
+09,2R16b,Double ring,fwd,15,no,strict 2FT,366.08557,138.18589,0.37746883,no,1483.0953,none,no,no
+09,2R16b,Double ring,fwd,20,yes,strict 2FT,365.06024,138.18589,0.37852901,no,1517.149,none,yes,yes
+09,2R16b,Double ring,fwd,25,yes,strict 2FT,363.75443,138.18589,0.37988786,no,1560.3587,none,no,no
+09,2R16b,Double ring,fwd,30,yes,strict 2FT,362.11838,138.18589,0.38160419,no,1614.3687,none,no,no
+09,2R16b,Double ring,aft,20,no,strict 2FT,365.21488,127.09248,0.34799371,no,1534.9453,none,no,no
+09,2R16b,Double ring,aft,25,no,strict 2FT,365.14648,131.90338,0.36123417,no,1526.8061,none,no,no
+09,2R16b,Double ring,aft,30,yes,strict 2FT,365.06024,138.18589,0.37852901,no,1517.149,none,yes,no
+09,2R16b,Double ring,aft,35,yes,strict 2FT,364.95226,146.26564,0.40078019,no,1506.1617,none,no,no
+09,2R16b,Double ring,aft,40,yes,strict 2FT,364.81693,156.61486,0.42929713,no,1494.089,none,no,no
+09,2R16b,Double ring,aft,45,yes,strict 2FT,364.64683,166.16718,0.45569349,no,1481.2307,none,no,yes
+09,2R16b,Double ring,roll,0,yes,strict 2FT,299.73079,138.18589,0.46103336,no,1502.9116,none,no,yes
+09,2R16b,Double ring,roll,5,yes,strict 2FT,325.81022,138.18589,0.42413001,no,1516.9143,none,no,no
+09,2R16b,Double ring,roll,10,yes,strict 2FT,365.06024,138.18589,0.37852901,no,1517.149,none,yes,no
+09,2R16b,Double ring,roll,15,yes,strict 2FT,418.59801,138.18589,0.33011598,no,1518.743,none,no,no
+09,2R16b,Double ring,roll,20,yes,strict 2FT,494.86081,138.18589,0.27924194,no,1522.5183,none,no,no
+09,2R16b,Double ring,roll,25,yes,strict 2FT,610.69792,138.18589,0.22627536,no,1530.1316,none,no,no
+09,2R16b,Double ring,roll,30,yes,strict 2FT,806.00081,138.18589,0.17144634,no,1534.9104,none,no,no
+10,2R16c,Double ring,fwd,0,no,strict 2FT,411.82619,140.43659,0.34100936,no,1392.0777,none,no,no
+10,2R16c,Double ring,fwd,5,no,strict 2FT,409.08724,140.43659,0.34329251,no,1384.5014,none,no,no
+10,2R16c,Double ring,fwd,10,no,strict 2FT,406.81578,140.43659,0.34520929,no,1389.8113,none,no,no
+10,2R16c,Double ring,fwd,15,no,strict 2FT,407.74626,140.43659,0.34442152,no,1413.0184,none,no,no
+10,2R16c,Double ring,fwd,20,yes,strict 2FT,409.07253,140.43659,0.34330486,no,1444.7,none,yes,yes
+10,2R16c,Double ring,fwd,25,yes,strict 2FT,410.74714,140.43659,0.34190521,no,1485.8668,none,no,no
+10,2R16c,Double ring,fwd,30,yes,strict 2FT,412.67983,140.43659,0.34030398,no,1538.903,none,no,no
+10,2R16c,Double ring,aft,20,no,strict 2FT,385.96227,129.15842,0.33464002,no,1447.1288,none,no,no
+10,2R16c,Double ring,aft,25,no,strict 2FT,403.41758,134.04955,0.33228486,no,1444.8186,none,no,no
+10,2R16c,Double ring,aft,30,yes,strict 2FT,409.07253,140.43659,0.34330486,no,1444.7,none,yes,no
+10,2R16c,Double ring,aft,35,yes,strict 2FT,409.06722,148.65064,0.36338927,no,1444.7552,none,no,no
+10,2R16c,Double ring,aft,40,yes,strict 2FT,409.04925,159.1719,0.38912649,no,1445.0493,none,no,no
+10,2R16c,Double ring,aft,45,yes,strict 2FT,409.01467,167.78378,0.41021457,no,1445.6527,none,no,yes
+10,2R16c,Double ring,roll,0,yes,strict 2FT,407.34442,140.43659,0.34476129,no,1437.4627,none,no,no
+10,2R16c,Double ring,roll,5,yes,strict 2FT,409.76095,140.43659,0.34272809,no,1447.2528,none,no,no
+10,2R16c,Double ring,roll,10,yes,strict 2FT,409.07253,140.43659,0.34330486,no,1444.7,none,yes,yes
+10,2R16c,Double ring,roll,15,yes,strict 2FT,415.46043,140.43659,0.33802638,no,1441.1491,none,no,no
+10,2R16c,Double ring,roll,20,yes,strict 2FT,427.93615,140.43659,0.32817183,no,1436.8848,none,no,no
+10,2R16c,Double ring,roll,25,yes,strict 2FT,452.36309,140.43659,0.31045103,no,1435.0185,none,no,no
+10,2R16c,Double ring,roll,30,yes,strict 2FT,492.12306,140.43659,0.28536884,no,1435.6086,none,no,no
+11,2R16d,Double ring,fwd,0,no,strict 2FT,419.57707,138.18589,0.32934567,no,1419.1216,none,no,no
+11,2R16d,Double ring,fwd,5,no,strict 2FT,416.71705,138.18589,0.33160604,no,1430.5147,none,no,no
+11,2R16d,Double ring,fwd,10,no,strict 2FT,414.23464,138.18589,0.33359328,no,1448.6796,none,no,no
+11,2R16d,Double ring,fwd,15,no,strict 2FT,413.36615,138.18589,0.33429416,no,1474.0152,none,no,no
+11,2R16d,Double ring,fwd,20,yes,strict 2FT,414.64824,138.18589,0.33326052,no,1507.3064,none,yes,yes
+11,2R16d,Double ring,fwd,25,yes,strict 2FT,416.29453,138.18589,0.33194261,no,1549.7137,none,no,no
+11,2R16d,Double ring,fwd,30,yes,strict 2FT,418.24018,138.18589,0.33039841,no,1602.8716,none,no,no
+11,2R16d,Double ring,aft,20,no,strict 2FT,390.71669,127.09248,0.3252804,no,1524.7673,none,no,no
+11,2R16d,Double ring,aft,25,no,strict 2FT,408.86258,131.90338,0.32261056,no,1516.7944,none,no,no
+11,2R16d,Double ring,aft,30,yes,strict 2FT,414.64824,138.18589,0.33326052,no,1507.3064,none,yes,no
+11,2R16d,Double ring,aft,35,yes,strict 2FT,414.51694,146.26564,0.35285805,no,1496.4862,none,no,no
+11,2R16d,Double ring,aft,40,yes,strict 2FT,414.35528,156.61486,0.3779724,no,1484.5671,none,no,no
+11,2R16d,Double ring,aft,45,yes,strict 2FT,414.15485,166.16718,0.40121994,no,1471.8504,none,no,yes
+11,2R16d,Double ring,roll,0,yes,strict 2FT,418.23772,138.18589,0.33040035,no,1499.7118,none,no,no
+11,2R16d,Double ring,roll,5,yes,strict 2FT,418.47028,138.18589,0.33021674,no,1503.1252,none,no,no
+11,2R16d,Double ring,roll,10,yes,strict 2FT,414.64824,138.18589,0.33326052,no,1507.3064,none,yes,yes
+11,2R16d,Double ring,roll,15,yes,strict 2FT,418.26165,138.18589,0.33038145,no,1512.9375,none,no,no
+11,2R16d,Double ring,roll,20,yes,strict 2FT,429.18441,138.18589,0.32197323,no,1521.2255,none,no,no
+11,2R16d,Double ring,roll,25,yes,strict 2FT,454.85012,138.18589,0.30380533,no,1522.2012,none,no,no
+11,2R16d,Double ring,roll,30,yes,strict 2FT,493.10017,138.18589,0.28023898,no,1522.8807,none,no,no
+12,2R24a,Double ring,fwd,0,no,strict 2FT,161.21051,118.67496,0.73614908,no,1374.9291,none,no,no
+12,2R24a,Double ring,fwd,5,no,strict 2FT,160.5615,118.67496,0.73912469,no,1382.138,none,no,no
+12,2R24a,Double ring,fwd,10,no,strict 2FT,159.95245,118.67496,0.74193901,no,1394.8556,none,no,no
+12,2R24a,Double ring,fwd,15,no,strict 2FT,159.38711,118.67496,0.74457064,no,1413.5187,none,no,no
+12,2R24a,Double ring,fwd,20,yes,strict 2FT,158.86886,118.67496,0.74699953,no,1438.778,none,yes,yes
+12,2R24a,Double ring,fwd,25,yes,strict 2FT,158.40072,118.67496,0.74920721,no,1471.5604,none,no,no
+12,2R24a,Double ring,fwd,30,yes,strict 2FT,157.98538,118.67496,0.75117687,no,1513.1623,none,no,no
+12,2R24a,Double ring,aft,20,no,strict 2FT,159.74775,124.71829,0.78072015,no,1428.9542,none,no,no
+12,2R24a,Double ring,aft,25,no,strict 2FT,159.31849,121.15916,0.76048397,no,1434.4751,none,no,no
+12,2R24a,Double ring,aft,30,yes,strict 2FT,158.86886,118.67496,0.74699953,no,1438.778,none,yes,yes
+12,2R24a,Double ring,aft,35,yes,strict 2FT,158.39789,117.16373,0.73967987,no,1441.8666,none,no,no
+12,2R24a,Double ring,aft,40,yes,strict 2FT,157.90455,116.56588,0.7382047,no,1443.778,none,no,no
+12,2R24a,Double ring,aft,45,yes,strict 2FT,157.38756,116.85835,0.74248781,no,1444.5916,none,no,no
+12,2R24a,Double ring,roll,0,yes,strict 2FT,156.55322,118.67496,0.75804869,no,1433.4622,none,no,no
+12,2R24a,Double ring,roll,5,yes,strict 2FT,157.12688,118.67496,0.75528114,no,1436.1486,none,no,no
+12,2R24a,Double ring,roll,10,yes,strict 2FT,158.86886,118.67496,0.74699953,no,1438.778,none,yes,yes
+12,2R24a,Double ring,roll,15,yes,strict 2FT,161.84416,118.67496,0.73326691,no,1441.7604,none,no,no
+12,2R24a,Double ring,roll,20,yes,strict 2FT,166.16774,118.67496,0.71418777,no,1445.8244,none,no,no
+12,2R24a,Double ring,roll,25,yes,strict 2FT,172.0158,118.67496,0.68990734,no,1452.3412,none,no,no
+12,2R24a,Double ring,roll,30,yes,strict 2FT,179.64441,118.67496,0.66061039,no,1459.1484,none,no,no
+13,2R24b,Double ring,fwd,0,no,strict 2FT,162.49768,117.05078,0.7203228,no,1471.9487,none,no,no
+13,2R24b,Double ring,fwd,5,no,strict 2FT,162.03086,117.05078,0.72239808,no,1478.766,none,no,no
+13,2R24b,Double ring,fwd,10,no,strict 2FT,161.59181,117.05078,0.72436087,no,1490.8232,none,no,no
+13,2R24b,Double ring,fwd,15,no,strict 2FT,161.1834,117.05078,0.72619624,no,1508.5567,none,no,no
+13,2R24b,Double ring,fwd,20,yes,strict 2FT,160.80829,117.05078,0.72789023,no,1532.5956,none,yes,yes
+13,2R24b,Double ring,fwd,25,yes,strict 2FT,160.46885,117.05078,0.72942993,no,1563.8344,none,no,no
+13,2R24b,Double ring,fwd,30,yes,strict 2FT,160.16722,117.05078,0.73080363,no,1603.5059,none,no,no
+13,2R24b,Double ring,aft,20,no,strict 2FT,161.34667,122.78746,0.76101641,no,1517.914,none,no,no
+13,2R24b,Double ring,aft,25,no,strict 2FT,161.08648,119.39445,0.74118229,no,1526.1375,none,no,no
+13,2R24b,Double ring,aft,30,yes,strict 2FT,160.80829,117.05078,0.72789023,no,1532.5956,none,yes,yes
+13,2R24b,Double ring,aft,35,yes,strict 2FT,160.51216,115.66066,0.72057256,no,1536.9963,none,no,no
+13,2R24b,Double ring,aft,40,yes,strict 2FT,160.19799,115.16938,0.71891904,no,1538.8614,none,no,no
+13,2R24b,Double ring,aft,45,yes,strict 2FT,159.86543,115.55801,0.72284553,no,1538.8295,none,no,no
+13,2R24b,Double ring,roll,0,yes,strict 2FT,158.43619,117.05078,0.73878817,no,1514.9453,none,no,no
+13,2R24b,Double ring,roll,5,yes,strict 2FT,159.02375,117.05078,0.73605849,no,1534.1044,none,no,no
+13,2R24b,Double ring,roll,10,yes,strict 2FT,160.80829,117.05078,0.72789023,no,1532.5956,none,yes,yes
+13,2R24b,Double ring,roll,15,yes,strict 2FT,163.85737,117.05078,0.71434555,no,1531.443,none,no,no
+13,2R24b,Double ring,roll,20,yes,strict 2FT,168.29065,117.05078,0.69552753,no,1531.038,none,no,no
+13,2R24b,Double ring,roll,25,yes,strict 2FT,174.2918,117.05078,0.67157939,no,1532.2144,none,no,no
+13,2R24b,Double ring,roll,30,yes,strict 2FT,182.12822,117.05078,0.6426834,no,1532.355,none,no,no
+14,2R24c,Double ring,fwd,0,no,strict 2FT,161.72242,117.05078,0.72377587,no,1459.7924,none,no,no
+14,2R24c,Double ring,fwd,5,no,strict 2FT,161.14428,117.05078,0.72637255,no,1465.4892,none,no,no
+14,2R24c,Double ring,fwd,10,no,strict 2FT,160.60089,117.05078,0.72883023,no,1477.0271,none,no,no
+14,2R24c,Double ring,fwd,15,no,strict 2FT,160.09568,117.05078,0.73113019,no,1494.7875,none,no,no
+14,2R24c,Double ring,fwd,20,yes,strict 2FT,159.63177,117.05078,0.73325493,no,1519.7067,none,yes,yes
+14,2R24c,Double ring,fwd,25,yes,strict 2FT,159.21198,117.05078,0.73518828,no,1551.5007,none,no,no
+14,2R24c,Double ring,fwd,30,yes,strict 2FT,158.8388,117.05078,0.73691553,no,1592.2582,none,no,no
+14,2R24c,Double ring,aft,20,no,strict 2FT,160.42789,122.78746,0.76537481,no,1505.8416,none,no,no
+14,2R24c,Double ring,aft,25,no,strict 2FT,160.04147,119.39445,0.74602192,no,1513.8144,none,no,no
+14,2R24c,Double ring,aft,30,yes,strict 2FT,159.63177,117.05078,0.73325493,no,1519.7067,none,yes,yes
+14,2R24c,Double ring,aft,35,yes,strict 2FT,159.19858,115.66066,0.72651813,no,1523.0444,none,no,no
+14,2R24c,Double ring,aft,40,yes,strict 2FT,158.74156,115.16938,0.72551503,no,1524.8157,none,no,no
+14,2R24c,Double ring,aft,45,yes,strict 2FT,158.26002,115.55801,0.73017817,no,1524.714,none,no,no
+14,2R24c,Double ring,roll,0,yes,strict 2FT,157.294,117.05078,0.74415287,no,1511.8119,none,no,no
+14,2R24c,Double ring,roll,5,yes,strict 2FT,157.87311,117.05078,0.74142319,no,1519.438,none,no,no
+14,2R24c,Double ring,roll,10,yes,strict 2FT,159.63177,117.05078,0.73325493,no,1519.7067,none,yes,yes
+14,2R24c,Double ring,roll,15,yes,strict 2FT,162.63598,117.05078,0.71971025,no,1519.4515,none,no,no
+14,2R24c,Double ring,roll,20,yes,strict 2FT,167.00254,117.05078,0.70089223,no,1519.1223,none,no,no
+14,2R24c,Double ring,roll,25,yes,strict 2FT,172.91056,117.05078,0.6769441,no,1519.3913,none,no,no
+14,2R24c,Double ring,roll,30,yes,strict 2FT,180.62051,117.05078,0.6480481,no,1517.1189,none,no,no
+15,2R24d,Double ring,fwd,0,no,strict 2FT,161.98085,118.67496,0.7326481,no,1459.7502,none,no,no
+15,2R24d,Double ring,fwd,5,no,strict 2FT,161.44166,118.67496,0.73509506,no,1464.8576,none,no,no
+15,2R24d,Double ring,fwd,10,no,strict 2FT,160.93536,118.67496,0.73740764,no,1473.9558,none,no,no
+15,2R24d,Double ring,fwd,15,no,strict 2FT,160.4652,118.67496,0.73956823,no,1487.434,none,no,no
+15,2R24d,Double ring,fwd,20,yes,strict 2FT,160.03412,118.67496,0.74156039,no,1504.7447,none,yes,yes
+15,2R24d,Double ring,fwd,25,yes,strict 2FT,159.64477,118.67496,0.74336895,no,1527.3492,none,no,no
+15,2R24d,Double ring,fwd,30,yes,strict 2FT,159.2995,118.67496,0.74498016,no,1556.6594,none,no,no
+15,2R24d,Double ring,aft,20,no,strict 2FT,160.65874,124.71829,0.77629321,no,1504.2091,none,no,no
+15,2R24d,Double ring,aft,25,no,strict 2FT,160.35405,121.15916,0.75557281,no,1504.3344,none,no,no
+15,2R24d,Double ring,aft,30,yes,strict 2FT,160.03412,118.67496,0.74156039,no,1504.7447,none,yes,yes
+15,2R24d,Double ring,aft,35,yes,strict 2FT,159.69823,117.16373,0.73365704,no,1505.2208,none,no,no
+15,2R24d,Double ring,aft,40,yes,strict 2FT,159.34559,116.56588,0.73152874,no,1505.9352,none,no,no
+15,2R24d,Double ring,aft,45,yes,strict 2FT,158.97524,116.85835,0.73507266,no,1506.9825,none,no,no
+15,2R24d,Double ring,roll,0,yes,strict 2FT,157.68464,118.67496,0.75260955,no,1494.6881,none,no,no
+15,2R24d,Double ring,roll,5,yes,strict 2FT,158.26663,118.67496,0.74984199,no,1503.872,none,no,no
+15,2R24d,Double ring,roll,10,yes,strict 2FT,160.03412,118.67496,0.74156039,no,1504.7447,none,yes,yes
+15,2R24d,Double ring,roll,15,yes,strict 2FT,163.05364,118.67496,0.72782776,no,1504.7174,none,no,no
+15,2R24d,Double ring,roll,20,yes,strict 2FT,167.44295,118.67496,0.70874863,no,1503.615,none,no,no
+15,2R24d,Double ring,roll,25,yes,strict 2FT,173.38273,118.67496,0.68446819,no,1502.6984,none,no,no
+15,2R24d,Double ring,roll,30,yes,strict 2FT,181.1358,118.67496,0.65517124,no,1498.2127,none,no,no
+16,2R32a,Double ring,fwd,0,no,strict 2FT,128.59392,118.67496,0.9228661,no,1361.4398,none,no,no
+16,2R32a,Double ring,fwd,5,no,strict 2FT,129.02477,118.67496,0.91978434,no,1367.7193,none,no,no
+16,2R32a,Double ring,fwd,10,no,strict 2FT,130.39212,118.67496,0.91013906,no,1379.7245,none,no,no
+16,2R32a,Double ring,fwd,15,no,strict 2FT,132.7447,118.67496,0.89400908,no,1397.8729,none,no,no
+16,2R32a,Double ring,fwd,20,yes,strict 2FT,136.16987,118.67496,0.87152147,no,1422.81,none,yes,yes
+16,2R32a,Double ring,fwd,25,yes,strict 2FT,140.80184,118.67496,0.84285096,no,1455.4707,none,no,no
+16,2R32a,Double ring,fwd,30,yes,strict 2FT,146.83496,118.67496,0.80822008,no,1497.1834,none,no,no
+16,2R32a,Double ring,aft,20,no,strict 2FT,136.19624,124.71829,0.91572492,no,1411.5587,none,no,no
+16,2R32a,Double ring,aft,25,no,strict 2FT,136.18482,121.15916,0.88966713,no,1417.8266,none,no,no
+16,2R32a,Double ring,aft,30,yes,strict 2FT,136.16987,118.67496,0.87152147,no,1422.81,none,yes,yes
+16,2R32a,Double ring,aft,35,yes,strict 2FT,136.1505,117.16373,0.86054571,no,1426.52,none,no,no
+16,2R32a,Double ring,aft,40,yes,strict 2FT,136.12507,116.56588,0.85631458,no,1429.0241,none,no,no
+16,2R32a,Double ring,aft,45,yes,strict 2FT,136.09164,116.85835,0.85867394,no,1430.4216,none,no,no
+16,2R32a,Double ring,roll,0,yes,strict 2FT,136.14402,118.67496,0.87168696,no,1426.1859,none,no,no
+16,2R32a,Double ring,roll,5,yes,strict 2FT,136.1555,118.67496,0.87161342,no,1425.0691,none,no,no
+16,2R32a,Double ring,roll,10,yes,strict 2FT,136.16987,118.67496,0.87152147,no,1422.81,none,yes,yes
+16,2R32a,Double ring,roll,15,yes,strict 2FT,136.17611,118.67496,0.87148151,no,1420.0407,none,no,no
+16,2R32a,Double ring,roll,20,yes,strict 2FT,136.17505,118.67496,0.8714883,no,1416.7178,none,no,no
+16,2R32a,Double ring,roll,25,yes,strict 2FT,136.16719,118.67496,0.87153862,no,1412.8298,none,no,no
+16,2R32a,Double ring,roll,30,yes,strict 2FT,136.1528,118.67496,0.87163072,no,1408.3905,none,no,no
+17,2R32b,Double ring,fwd,0,no,strict 2FT,128.67982,117.05078,0.90962813,no,1438.861,none,no,no
+17,2R32b,Double ring,fwd,5,no,strict 2FT,129.11968,117.05078,0.90652938,no,1444.2311,none,no,no
+17,2R32b,Double ring,fwd,10,no,strict 2FT,130.49694,117.05078,0.89696191,no,1455.3217,none,no,no
+17,2R32b,Double ring,fwd,15,no,strict 2FT,132.86071,117.05078,0.88100374,no,1472.5375,none,no,no
+17,2R32b,Double ring,fwd,20,yes,strict 2FT,136.2987,117.05078,0.85878134,no,1496.5179,none,yes,yes
+17,2R32b,Double ring,fwd,25,yes,strict 2FT,140.94514,117.05078,0.8304705,no,1528.2112,none,no,no
+17,2R32b,Double ring,fwd,30,yes,strict 2FT,146.99605,117.05078,0.79628523,no,1568.8807,none,no,no
+17,2R32b,Double ring,aft,20,no,strict 2FT,136.3252,122.78746,0.90069526,no,1480.6548,none,no,no
+17,2R32b,Double ring,aft,25,no,strict 2FT,136.31298,119.39445,0.87588466,no,1489.5919,none,no,no
+17,2R32b,Double ring,aft,30,yes,strict 2FT,136.2987,117.05078,0.85878134,no,1496.5179,none,yes,yes
+17,2R32b,Double ring,aft,35,yes,strict 2FT,136.28181,115.66066,0.84868744,no,1501.4089,none,no,no
+17,2R32b,Double ring,aft,40,yes,strict 2FT,136.2625,115.16938,0.84520234,no,1504.2164,none,no,no
+17,2R32b,Double ring,aft,45,yes,strict 2FT,136.24126,115.55801,0.84818665,no,1504.8985,none,no,no
+17,2R32b,Double ring,roll,0,yes,strict 2FT,136.50701,117.05078,0.85747084,no,1486.6763,none,no,no
+17,2R32b,Double ring,roll,5,yes,strict 2FT,136.26735,117.05078,0.8589789,no,1499.9379,none,no,no
+17,2R32b,Double ring,roll,10,yes,strict 2FT,136.2987,117.05078,0.85878134,no,1496.5179,none,yes,yes
+17,2R32b,Double ring,roll,15,yes,strict 2FT,136.32243,117.05078,0.85863186,no,1492.476,none,no,no
+17,2R32b,Double ring,roll,20,yes,strict 2FT,136.33939,117.05078,0.85852507,no,1487.7911,none,no,no
+17,2R32b,Double ring,roll,25,yes,strict 2FT,136.34967,117.05078,0.85846035,no,1482.4932,none,no,no
+17,2R32b,Double ring,roll,30,yes,strict 2FT,136.35312,117.05078,0.85843861,no,1476.6365,none,no,no
+18,2R32c,Double ring,fwd,0,no,strict 2FT,128.65217,117.05078,0.9098236,no,1439.1948,none,no,no
+18,2R32c,Double ring,fwd,5,no,strict 2FT,129.09089,117.05078,0.90673151,no,1444.7324,none,no,no
+18,2R32c,Double ring,fwd,10,no,strict 2FT,130.46587,117.05078,0.89717552,no,1456.0772,none,no,no
+18,2R32c,Double ring,fwd,15,no,strict 2FT,132.82622,117.05078,0.8812325,no,1473.6249,none,no,no
+18,2R32c,Double ring,fwd,20,yes,strict 2FT,136.25972,117.05078,0.85902703,no,1498.0032,none,yes,yes
+18,2R32c,Double ring,fwd,25,yes,strict 2FT,140.9002,117.05078,0.83073539,no,1530.1714,none,no,no
+18,2R32c,Double ring,fwd,30,yes,strict 2FT,146.94311,117.05078,0.79657209,no,1571.4088,none,no,no
+18,2R32c,Double ring,aft,20,no,strict 2FT,136.28044,122.78746,0.90099107,no,1482.4747,none,no,no
+18,2R32c,Double ring,aft,25,no,strict 2FT,136.27145,119.39445,0.8761516,no,1491.2245,none,no,no
+18,2R32c,Double ring,aft,30,yes,strict 2FT,136.25972,117.05078,0.85902703,no,1498.0032,none,yes,yes
+18,2R32c,Double ring,aft,35,yes,strict 2FT,136.24416,115.66066,0.84892195,no,1502.8173,none,no,no
+18,2R32c,Double ring,aft,40,yes,strict 2FT,136.22413,115.16938,0.8454404,no,1505.6691,none,no,no
+18,2R32c,Double ring,aft,45,yes,strict 2FT,136.19848,115.55801,0.84845306,no,1506.6101,none,no,no
+18,2R32c,Double ring,roll,0,yes,strict 2FT,136.33715,117.05078,0.85853918,no,1494.6392,none,no,no
+18,2R32c,Double ring,roll,5,yes,strict 2FT,136.25159,117.05078,0.85907827,no,1499.5425,none,no,no
+18,2R32c,Double ring,roll,10,yes,strict 2FT,136.25972,117.05078,0.85902703,no,1498.0032,none,yes,yes
+18,2R32c,Double ring,roll,15,yes,strict 2FT,136.26098,117.05078,0.85901907,no,1495.814,none,no,no
+18,2R32c,Double ring,roll,20,yes,strict 2FT,136.25583,117.05078,0.85905152,no,1492.9715,none,no,no
+18,2R32c,Double ring,roll,25,yes,strict 2FT,136.2443,117.05078,0.85912424,no,1489.5045,none,no,no
+18,2R32c,Double ring,roll,30,yes,strict 2FT,136.22939,117.05078,0.85921831,no,1485.2805,none,no,no
+19,2R32d,Double ring,fwd,0,no,strict 2FT,128.62198,118.67496,0.92266472,no,1436.4588,none,no,no
+19,2R32d,Double ring,fwd,5,no,strict 2FT,129.05908,118.67496,0.91953986,no,1441.2771,none,no,no
+19,2R32d,Double ring,fwd,10,no,strict 2FT,130.42742,118.67496,0.90989274,no,1450.1961,none,no,no
+19,2R32d,Double ring,fwd,15,no,strict 2FT,132.77941,118.67496,0.89377533,no,1463.3161,none,no,no
+19,2R32d,Double ring,fwd,20,yes,strict 2FT,136.20896,118.67496,0.87127138,no,1480.7501,none,yes,yes
+19,2R32d,Double ring,fwd,25,yes,strict 2FT,140.84659,118.67496,0.84258314,no,1503.8474,none,no,no
+19,2R32d,Double ring,fwd,30,yes,strict 2FT,146.88677,118.67496,0.80793499,no,1534.027,none,no,no
+19,2R32d,Double ring,aft,20,no,strict 2FT,136.24274,124.71829,0.91541236,no,1478.8363,none,no,no
+19,2R32d,Double ring,aft,25,no,strict 2FT,136.2274,121.15916,0.88938904,no,1479.7043,none,no,no
+19,2R32d,Double ring,aft,30,yes,strict 2FT,136.20896,118.67496,0.87127138,no,1480.7501,none,yes,yes
+19,2R32d,Double ring,aft,35,yes,strict 2FT,136.18675,117.16373,0.86031667,no,1482.0113,none,no,no
+19,2R32d,Double ring,aft,40,yes,strict 2FT,136.15993,116.56588,0.85609535,no,1483.5365,none,no,no
+19,2R32d,Double ring,aft,45,yes,strict 2FT,136.12732,116.85835,0.8584489,no,1485.3952,none,no,no
+19,2R32d,Double ring,roll,0,yes,strict 2FT,136.25715,118.67496,0.87096322,no,1480.5532,none,no,no
+19,2R32d,Double ring,roll,5,yes,strict 2FT,136.18038,118.67496,0.87145421,no,1484.3379,none,no,no
+19,2R32d,Double ring,roll,10,yes,strict 2FT,136.20896,118.67496,0.87127138,no,1480.7501,none,yes,yes
+19,2R32d,Double ring,roll,15,yes,strict 2FT,136.2296,118.67496,0.87113936,no,1476.6044,none,no,no
+19,2R32d,Double ring,roll,20,yes,strict 2FT,136.24307,118.67496,0.87105323,no,1471.8659,none,no,no
+19,2R32d,Double ring,roll,25,yes,strict 2FT,136.25443,118.67496,0.87098061,no,1466.2618,none,no,no
+19,2R32d,Double ring,roll,30,yes,strict 2FT,136.25851,118.67496,0.87095452,no,1460.129,none,no,no
+20,D16a,Dragon-like,fwd,0,no,relaxed 2FT,319.47029,140.07486,0.43845975,no,1360.0382,none,no,no
+20,D16a,Dragon-like,fwd,5,no,relaxed 2FT,302.91066,140.07486,0.46242963,no,1428.9181,none,no,no
+20,D16a,Dragon-like,fwd,10,no,relaxed 2FT,322.92534,140.07486,0.43376858,no,1484.7832,none,no,no
+20,D16a,Dragon-like,fwd,15,no,1FT only,4.5535947e+11,140.07486,3.0761381e-10,no,1536.6131,none,no,no
+20,D16a,Dragon-like,fwd,20,yes,relaxed 2FT,312.12146,140.07486,0.44878319,no,1548.8097,none,yes,yes
+20,D16a,Dragon-like,fwd,25,yes,relaxed 2FT,344.07136,140.07486,0.40710991,no,1524.2249,none,no,no
+20,D16a,Dragon-like,fwd,30,yes,relaxed 2FT,385.48357,140.07486,0.36337441,no,1527.3181,none,no,no
+20,D16a,Dragon-like,aft,20,no,relaxed 2FT,312.61589,129.09369,0.41294667,no,1546.815,none,no,no
+20,D16a,Dragon-like,aft,25,no,relaxed 2FT,312.38856,133.849,0.42846959,no,1547.8368,none,no,no
+20,D16a,Dragon-like,aft,30,yes,relaxed 2FT,312.12146,140.07486,0.44878319,no,1548.8097,none,yes,no
+20,D16a,Dragon-like,aft,35,yes,relaxed 2FT,311.80516,148.0902,0.47494467,no,1550.1201,none,no,no
+20,D16a,Dragon-like,aft,40,yes,relaxed 2FT,329.177,158.35686,0.48106901,no,1552.2944,none,no,yes
+20,D16a,Dragon-like,aft,45,yes,relaxed 2FT,356.08658,168.2906,0.47261145,no,1556.0692,none,no,no
+20,D16a,Dragon-like,roll,0,yes,relaxed 2FT,311.89614,140.07486,0.44910739,no,1558.6523,none,no,no
+20,D16a,Dragon-like,roll,5,yes,relaxed 2FT,312.02134,140.07486,0.44892719,no,1553.7489,none,no,no
+20,D16a,Dragon-like,roll,10,yes,relaxed 2FT,312.12146,140.07486,0.44878319,no,1548.8097,none,yes,yes
+20,D16a,Dragon-like,roll,15,yes,relaxed 2FT,312.18515,140.07486,0.44869162,no,1544.0364,none,no,no
+20,D16a,Dragon-like,roll,20,yes,relaxed 2FT,312.21728,140.07486,0.44864546,no,1539.2669,none,no,no
+20,D16a,Dragon-like,roll,25,yes,relaxed 2FT,312.22093,140.07486,0.44864021,no,1534.4106,none,no,no
+20,D16a,Dragon-like,roll,30,yes,relaxed 2FT,312.19797,140.07486,0.44867321,no,1529.4299,none,no,no
+21,D16b,Dragon-like,fwd,0,no,1FT only,383.13913,137.83536,0.35975275,no,1397.2721,none,no,no
+21,D16b,Dragon-like,fwd,5,no,1FT only,383.13913,137.83536,0.35975275,no,1440.6854,none,no,no
+21,D16b,Dragon-like,fwd,10,no,1FT only,459.03142,137.83536,0.30027434,no,1495.7522,none,no,no
+21,D16b,Dragon-like,fwd,15,no,1FT only,4.5772583e+11,137.83536,3.0113082e-10,no,1547.2184,none,no,no
+21,D16b,Dragon-like,fwd,20,yes,1FT only,383.13913,137.83536,0.35975275,no,1567.0248,none,yes,yes
+21,D16b,Dragon-like,fwd,25,yes,1FT only,383.13913,137.83536,0.35975275,no,1548.3148,none,no,no
+21,D16b,Dragon-like,fwd,30,yes,1FT only,383.13913,137.83536,0.35975275,no,1579.5982,none,no,no
+21,D16b,Dragon-like,aft,20,no,1FT only,383.13913,127.02975,0.33154992,no,1576.3588,none,no,no
+21,D16b,Dragon-like,aft,25,no,1FT only,383.13913,131.70903,0.34376293,no,1572.2142,none,no,no
+21,D16b,Dragon-like,aft,30,yes,1FT only,383.13913,137.83536,0.35975275,no,1567.0248,none,yes,no
+21,D16b,Dragon-like,aft,35,yes,1FT only,383.13913,145.72254,0.38033845,no,1561.0962,none,no,no
+21,D16b,Dragon-like,aft,40,yes,1FT only,383.13913,155.82506,0.40670619,no,1554.8353,none,no,no
+21,D16b,Dragon-like,aft,45,yes,1FT only,383.13913,166.66427,0.43499673,no,1548.7959,none,no,yes
+21,D16b,Dragon-like,roll,0,yes,1FT only,431.09076,137.83536,0.31973628,no,1558.2177,none,no,no
+21,D16b,Dragon-like,roll,5,yes,1FT only,403.76727,137.83536,0.34137328,no,1570.2832,none,no,no
+21,D16b,Dragon-like,roll,10,yes,1FT only,383.13913,137.83536,0.35975275,no,1567.0248,none,yes,no
+21,D16b,Dragon-like,roll,15,yes,1FT only,367.81505,137.83536,0.37474093,no,1563.5727,none,no,no
+21,D16b,Dragon-like,roll,20,yes,1FT only,356.88783,137.83536,0.38621478,no,1559.9624,none,no,no
+21,D16b,Dragon-like,roll,25,yes,1FT only,349.78082,137.83536,0.39406208,no,1556.2715,none,no,no
+21,D16b,Dragon-like,roll,30,yes,1FT only,346.16332,137.83536,0.39818012,no,1552.6265,none,no,yes
+22,D16c,Dragon-like,fwd,0,no,relaxed 2FT,341.15199,140.07486,0.41059372,no,1323.5184,none,no,no
+22,D16c,Dragon-like,fwd,5,no,relaxed 2FT,316.02881,140.07486,0.44323447,no,1373.0958,none,no,no
+22,D16c,Dragon-like,fwd,10,no,relaxed 2FT,313.95369,140.07486,0.44616409,no,1451.9065,none,no,no
+22,D16c,Dragon-like,fwd,15,no,1FT only,4.5616137e+11,140.07486,3.0707305e-10,no,1521.6406,none,no,no
+22,D16c,Dragon-like,fwd,20,yes,relaxed 2FT,322.0569,140.07486,0.43493825,no,1524.2868,none,yes,yes
+22,D16c,Dragon-like,fwd,25,yes,relaxed 2FT,365.52192,140.07486,0.38321878,no,1487.635,none,no,no
+22,D16c,Dragon-like,fwd,30,yes,relaxed 2FT,423.5046,140.07486,0.33075169,no,1516.5859,none,no,no
+22,D16c,Dragon-like,aft,20,no,relaxed 2FT,322.42616,129.09369,0.40038219,no,1526.8084,none,no,no
+22,D16c,Dragon-like,aft,25,no,relaxed 2FT,322.25622,133.849,0.41534962,no,1525.7507,none,no,no
+22,D16c,Dragon-like,aft,30,yes,relaxed 2FT,322.0569,140.07486,0.43493825,no,1524.2868,none,yes,no
+22,D16c,Dragon-like,aft,35,yes,relaxed 2FT,321.82139,148.0902,0.4601627,no,1522.712,none,no,no
+22,D16c,Dragon-like,aft,40,yes,relaxed 2FT,330.23306,158.35686,0.4795306,no,1521.4253,none,no,yes
+22,D16c,Dragon-like,aft,45,yes,relaxed 2FT,357.37873,168.2906,0.47090267,no,1520.9785,none,no,no
+22,D16c,Dragon-like,roll,0,yes,relaxed 2FT,321.7694,140.07486,0.43532686,no,1536.2636,none,no,no
+22,D16c,Dragon-like,roll,5,yes,relaxed 2FT,321.92721,140.07486,0.43511347,no,1530.2163,none,no,no
+22,D16c,Dragon-like,roll,10,yes,relaxed 2FT,322.0569,140.07486,0.43493825,no,1524.2868,none,yes,yes
+22,D16c,Dragon-like,roll,15,yes,relaxed 2FT,322.14279,140.07486,0.43482228,no,1518.751,none,no,no
+22,D16c,Dragon-like,roll,20,yes,relaxed 2FT,322.19099,140.07486,0.43475724,no,1513.4053,none,no,no
+22,D16c,Dragon-like,roll,25,yes,relaxed 2FT,322.20534,140.07486,0.43473787,no,1508.1322,none,no,no
+22,D16c,Dragon-like,roll,30,yes,relaxed 2FT,322.18812,140.07486,0.43476111,no,1502.878,none,no,no
+23,D16d,Dragon-like,fwd,0,no,relaxed 2FT,331.49361,137.83536,0.41580094,no,1446.229,none,no,no
+23,D16d,Dragon-like,fwd,5,no,relaxed 2FT,307.38232,137.83536,0.44841666,no,1483.8205,none,no,no
+23,D16d,Dragon-like,fwd,10,no,relaxed 2FT,355.86346,137.83536,0.38732652,no,1521.2872,none,no,no
+23,D16d,Dragon-like,fwd,15,no,1FT only,4.5696659e+11,137.83536,3.0163115e-10,no,1561.4145,none,no,no
+23,D16d,Dragon-like,fwd,20,yes,relaxed 2FT,314.5932,137.83536,0.43813838,no,1583.7908,none,yes,yes
+23,D16d,Dragon-like,fwd,25,yes,relaxed 2FT,355.91698,137.83536,0.38726828,no,1584.3104,none,no,no
+23,D16d,Dragon-like,fwd,30,yes,relaxed 2FT,413.19057,137.83536,0.33358785,no,1589.8609,none,no,no
+23,D16d,Dragon-like,aft,20,no,relaxed 2FT,315.04334,127.02975,0.40321358,no,1589.8364,none,no,no
+23,D16d,Dragon-like,aft,25,no,relaxed 2FT,314.83633,131.70903,0.41834127,no,1587.2043,none,no,no
+23,D16d,Dragon-like,aft,30,yes,relaxed 2FT,314.5932,137.83536,0.43813838,no,1583.7908,none,yes,no
+23,D16d,Dragon-like,aft,35,yes,relaxed 2FT,314.30556,145.72254,0.46363335,no,1579.9681,none,no,no
+23,D16d,Dragon-like,aft,40,yes,relaxed 2FT,313.96158,155.82506,0.49631887,no,1576.2367,none,no,no
+23,D16d,Dragon-like,aft,45,yes,relaxed 2FT,335.39332,166.66427,0.49692185,no,1573.2856,none,no,yes
+23,D16d,Dragon-like,roll,0,yes,relaxed 2FT,314.85168,137.83536,0.43777868,no,1579.4084,none,no,no
+23,D16d,Dragon-like,roll,5,yes,relaxed 2FT,314.51983,137.83536,0.43824059,no,1587.0244,none,no,no
+23,D16d,Dragon-like,roll,10,yes,relaxed 2FT,314.5932,137.83536,0.43813838,no,1583.7908,none,yes,yes
+23,D16d,Dragon-like,roll,15,yes,relaxed 2FT,314.64093,137.83536,0.43807192,no,1580.245,none,no,no
+23,D16d,Dragon-like,roll,20,yes,relaxed 2FT,314.66295,137.83536,0.43804127,no,1576.4245,none,no,no
+23,D16d,Dragon-like,roll,25,yes,relaxed 2FT,314.65838,137.83536,0.43804762,no,1572.4024,none,no,no
+23,D16d,Dragon-like,roll,30,yes,relaxed 2FT,314.62539,137.83536,0.43809355,no,1568.2933,none,no,no
+24,D16e,Dragon-like,fwd,0,no,relaxed 2FT,335.08076,140.07486,0.41803315,no,1334.8305,none,no,no
+24,D16e,Dragon-like,fwd,5,no,relaxed 2FT,312.29736,140.07486,0.4485304,no,1391.9311,none,no,no
+24,D16e,Dragon-like,fwd,10,no,relaxed 2FT,301.10928,140.07486,0.4651961,no,1468.9346,none,no,no
+24,D16e,Dragon-like,fwd,15,no,1FT only,4.5546685e+11,140.07486,3.0754129e-10,no,1533.7041,none,no,no
+24,D16e,Dragon-like,fwd,20,yes,relaxed 2FT,319.06998,140.07486,0.43900985,no,1539.1423,none,yes,yes
+24,D16e,Dragon-like,fwd,25,yes,relaxed 2FT,359.52887,140.07486,0.38960671,no,1498.692,none,no,no
+24,D16e,Dragon-like,fwd,30,yes,relaxed 2FT,412.48602,140.07486,0.33958694,no,1527.6316,none,no,no
+24,D16e,Dragon-like,aft,20,no,relaxed 2FT,319.50508,129.09369,0.40404269,no,1539.6867,none,no,no
+24,D16e,Dragon-like,aft,25,no,relaxed 2FT,319.30537,133.849,0.41918806,no,1539.528,none,no,no
+24,D16e,Dragon-like,aft,30,yes,relaxed 2FT,319.06998,140.07486,0.43900985,no,1539.1423,none,yes,no
+24,D16e,Dragon-like,aft,35,yes,relaxed 2FT,318.79062,148.0902,0.46453751,no,1538.8674,none,no,no
+24,D16e,Dragon-like,aft,40,yes,relaxed 2FT,329.54497,158.35686,0.48053185,no,1539.1627,none,no,yes
+24,D16e,Dragon-like,aft,45,yes,relaxed 2FT,356.55563,168.2906,0.47198973,no,1540.6677,none,no,no
+24,D16e,Dragon-like,roll,0,yes,relaxed 2FT,318.79292,140.07486,0.43939138,no,1550.6887,none,no,no
+24,D16e,Dragon-like,roll,5,yes,relaxed 2FT,318.948,140.07486,0.43917775,no,1544.8076,none,no,no
+24,D16e,Dragon-like,roll,10,yes,relaxed 2FT,319.06998,140.07486,0.43900985,no,1539.1423,none,yes,yes
+24,D16e,Dragon-like,roll,15,yes,relaxed 2FT,319.15028,140.07486,0.43889939,no,1533.8056,none,no,no
+24,D16e,Dragon-like,roll,20,yes,relaxed 2FT,319.19473,140.07486,0.43883827,no,1528.6033,none,no,no
+24,D16e,Dragon-like,roll,25,yes,relaxed 2FT,319.20711,140.07486,0.43882125,no,1523.4226,none,no,no
+24,D16e,Dragon-like,roll,30,yes,relaxed 2FT,319.18972,140.07486,0.43884516,no,1518.2106,none,no,no

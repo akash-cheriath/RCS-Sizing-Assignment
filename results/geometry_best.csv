@@ -1,0 +1,97 @@
+arch_id,layout,family,parameter,config_value,best_value,config_is_best,window_ratio_config,window_ratio_best,loaded_propellant_kg_config,loaded_propellant_kg_best,classes_in_window_config,classes_in_window_best
+01,Q12,Single ring,station,0.1,0.24,no,0.050709418,0.054566229,1425.2193,1416.5752,none,none
+01,Q12,Single ring,cant_fwd,20,30,no,0.050709418,0.066992154,1425.2193,1502.3303,none,none
+01,Q12,Single ring,cant_aft,30,45,no,0.050709418,0.059994353,1425.2193,1423.2547,none,none
+01,Q12,Single ring,cant_roll,10,10,yes,0.050709418,0.050709418,1425.2193,1425.2193,none,none
+02,Q16,Single ring,station,0.1,0.24,no,0.29060677,0.304179,1409.6742,1400.8974,none,none
+02,Q16,Single ring,cant_fwd,20,20,yes,0.29060677,0.29060677,1409.6742,1409.6742,none,none
+02,Q16,Single ring,cant_aft,30,30,yes,0.29060677,0.29060677,1409.6742,1409.6742,none,none
+02,Q16,Single ring,cant_roll,10,10,yes,0.29060677,0.29060677,1409.6742,1409.6742,none,none
+03,Q20,Single ring,station,0.1,0.24,no,0.87182032,0.91251833,1400.293,1391.3379,none,none
+03,Q20,Single ring,cant_fwd,20,20,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+03,Q20,Single ring,cant_aft,30,30,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+03,Q20,Single ring,cant_roll,10,10,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+04,Q24,Single ring,station,0.1,0.24,no,0.87242276,0.9131543,1405.709,1396.7899,none,none
+04,Q24,Single ring,cant_fwd,20,20,yes,0.87242276,0.87242276,1405.709,1405.709,none,none
+04,Q24,Single ring,cant_aft,30,30,yes,0.87242276,0.87242276,1405.709,1405.709,none,none
+04,Q24,Single ring,cant_roll,10,10,yes,0.87242276,0.87242276,1405.709,1405.709,none,none
+05,Q32,Single ring,station,0.1,0.24,no,0.87182032,0.91253701,1400.293,1391.4859,none,none
+05,Q32,Single ring,cant_fwd,20,20,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+05,Q32,Single ring,cant_aft,30,30,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+05,Q32,Single ring,cant_roll,10,10,yes,0.87182032,0.87182032,1400.293,1400.293,none,none
+06,T18,Single ring,station,0.1,0.24,no,0.43938348,0.45981538,1465.3569,1453.8763,none,none
+06,T18,Single ring,cant_fwd,20,20,yes,0.43938348,0.43938348,1465.3569,1465.3569,none,none
+06,T18,Single ring,cant_aft,30,30,yes,0.43938348,0.43938348,1465.3569,1465.3569,none,none
+06,T18,Single ring,cant_roll,10,10,yes,0.43938348,0.43938348,1465.3569,1465.3569,none,none
+07,H24,Single ring,station,0.1,0.24,no,0.43830572,0.45872193,1456.1517,1444.1549,none,none
+07,H24,Single ring,cant_fwd,20,20,yes,0.43830572,0.43830572,1456.1517,1456.1517,none,none
+07,H24,Single ring,cant_aft,30,30,yes,0.43830572,0.43830572,1456.1517,1456.1517,none,none
+07,H24,Single ring,cant_roll,10,10,yes,0.43830572,0.43830572,1456.1517,1456.1517,none,none
+08,2R16a,Double ring,station,1.5,1.84,no,0.37268132,0.46902338,1431.2838,1460.4402,none,none
+08,2R16a,Double ring,cant_fwd,20,20,yes,0.37268132,0.37268132,1431.2838,1431.2838,none,none
+08,2R16a,Double ring,cant_aft,30,45,no,0.37268132,0.44569981,1431.2838,1419.0522,none,none
+08,2R16a,Double ring,cant_roll,10,0,no,0.37268132,0.45900366,1431.2838,1422.3715,none,none
+09,2R16b,Double ring,station,1.5,1.74,no,0.37852901,0.45617297,1517.149,1518.5106,none,none
+09,2R16b,Double ring,cant_fwd,20,20,yes,0.37852901,0.37852901,1517.149,1517.149,none,none
+09,2R16b,Double ring,cant_aft,30,45,no,0.37852901,0.45569349,1517.149,1481.2307,none,none
+09,2R16b,Double ring,cant_roll,10,0,no,0.37852901,0.46103336,1517.149,1502.9116,none,none
+10,2R16c,Double ring,station,1.5,1.94,no,0.34330486,0.44309558,1444.7,1505.9849,none,none
+10,2R16c,Double ring,cant_fwd,20,20,yes,0.34330486,0.34330486,1444.7,1444.7,none,none
+10,2R16c,Double ring,cant_aft,30,45,no,0.34330486,0.41021457,1444.7,1445.6527,none,none
+10,2R16c,Double ring,cant_roll,10,10,yes,0.34330486,0.34330486,1444.7,1444.7,none,none
+11,2R16d,Double ring,station,1.5,1.94,no,0.33326052,0.4373271,1507.3064,1527.2905,none,none
+11,2R16d,Double ring,cant_fwd,20,20,yes,0.33326052,0.33326052,1507.3064,1507.3064,none,none
+11,2R16d,Double ring,cant_aft,30,45,no,0.33326052,0.40121994,1507.3064,1471.8504,none,none
+11,2R16d,Double ring,cant_roll,10,10,yes,0.33326052,0.33326052,1507.3064,1507.3064,none,none
+12,2R24a,Double ring,station,1.5,0.74,no,0.74699953,0.86271141,1438.778,1431.5954,none,none
+12,2R24a,Double ring,cant_fwd,20,20,yes,0.74699953,0.74699953,1438.778,1438.778,none,none
+12,2R24a,Double ring,cant_aft,30,30,yes,0.74699953,0.74699953,1438.778,1438.778,none,none
+12,2R24a,Double ring,cant_roll,10,10,yes,0.74699953,0.74699953,1438.778,1438.778,none,none
+13,2R24b,Double ring,station,1.5,0.74,no,0.72789023,0.83837708,1532.5956,1522.1601,none,none
+13,2R24b,Double ring,cant_fwd,20,20,yes,0.72789023,0.72789023,1532.5956,1532.5956,none,none
+13,2R24b,Double ring,cant_aft,30,30,yes,0.72789023,0.72789023,1532.5956,1532.5956,none,none
+13,2R24b,Double ring,cant_roll,10,10,yes,0.72789023,0.72789023,1532.5956,1532.5956,none,none
+14,2R24c,Double ring,station,1.5,0.34,no,0.73325493,0.88659663,1519.7067,1491.1791,none,none
+14,2R24c,Double ring,cant_fwd,20,20,yes,0.73325493,0.73325493,1519.7067,1519.7067,none,none
+14,2R24c,Double ring,cant_aft,30,30,yes,0.73325493,0.73325493,1519.7067,1519.7067,none,none
+14,2R24c,Double ring,cant_roll,10,10,yes,0.73325493,0.73325493,1519.7067,1519.7067,none,none
+15,2R24d,Double ring,station,1.5,0.24,no,0.74156039,0.87934032,1504.7447,1507.6793,none,none
+15,2R24d,Double ring,cant_fwd,20,20,yes,0.74156039,0.74156039,1504.7447,1504.7447,none,none
+15,2R24d,Double ring,cant_aft,30,30,yes,0.74156039,0.74156039,1504.7447,1504.7447,none,none
+15,2R24d,Double ring,cant_roll,10,10,yes,0.74156039,0.74156039,1504.7447,1504.7447,none,none
+16,2R32a,Double ring,station,1.5,0.84,no,0.87152147,0.93955364,1422.81,1412.6984,none,none
+16,2R32a,Double ring,cant_fwd,20,20,yes,0.87152147,0.87152147,1422.81,1422.81,none,none
+16,2R32a,Double ring,cant_aft,30,30,yes,0.87152147,0.87152147,1422.81,1422.81,none,none
+16,2R32a,Double ring,cant_roll,10,10,yes,0.87152147,0.87152147,1422.81,1422.81,none,none
+17,2R32b,Double ring,station,1.5,0.84,no,0.85878134,0.92481088,1496.5179,1479.4937,none,none
+17,2R32b,Double ring,cant_fwd,20,20,yes,0.85878134,0.85878134,1496.5179,1496.5179,none,none
+17,2R32b,Double ring,cant_aft,30,30,yes,0.85878134,0.85878134,1496.5179,1496.5179,none,none
+17,2R32b,Double ring,cant_roll,10,10,yes,0.85878134,0.85878134,1496.5179,1496.5179,none,none
+18,2R32c,Double ring,station,1.5,0.54,no,0.85902703,0.94210881,1498.0032,1476.7098,none,none
+18,2R32c,Double ring,cant_fwd,20,20,yes,0.85902703,0.85902703,1498.0032,1498.0032,none,none
+18,2R32c,Double ring,cant_aft,30,30,yes,0.85902703,0.85902703,1498.0032,1498.0032,none,none
+18,2R32c,Double ring,cant_roll,10,10,yes,0.85902703,0.85902703,1498.0032,1498.0032,none,none
+19,2R32d,Double ring,station,1.5,0.94,no,0.87127138,0.9268165,1480.7501,1483.5403,none,none
+19,2R32d,Double ring,cant_fwd,20,20,yes,0.87127138,0.87127138,1480.7501,1480.7501,none,none
+19,2R32d,Double ring,cant_aft,30,30,yes,0.87127138,0.87127138,1480.7501,1480.7501,none,none
+19,2R32d,Double ring,cant_roll,10,10,yes,0.87127138,0.87127138,1480.7501,1480.7501,none,none
+20,D16a,Dragon-like,station,0.1,0.1,yes,0.44878319,0.44878319,1548.8097,1548.8097,none,none
+20,D16a,Dragon-like,cant_fwd,20,20,yes,0.44878319,0.44878319,1548.8097,1548.8097,none,none
+20,D16a,Dragon-like,cant_aft,30,40,no,0.44878319,0.48106901,1548.8097,1552.2944,none,none
+20,D16a,Dragon-like,cant_roll,10,10,yes,0.44878319,0.44878319,1548.8097,1548.8097,none,none
+21,D16b,Dragon-like,station,0.1,0.08,no,0.35975275,0.42933725,1567.0248,1565.0999,none,none
+21,D16b,Dragon-like,cant_fwd,20,20,yes,0.35975275,0.35975275,1567.0248,1567.0248,none,none
+21,D16b,Dragon-like,cant_aft,30,45,no,0.35975275,0.43499673,1567.0248,1548.7959,none,none
+21,D16b,Dragon-like,cant_roll,10,30,no,0.35975275,0.39818012,1567.0248,1552.6265,none,none
+22,D16c,Dragon-like,station,0.1,0.1,yes,0.43493825,0.43493825,1524.2868,1524.2868,none,none
+22,D16c,Dragon-like,cant_fwd,20,20,yes,0.43493825,0.43493825,1524.2868,1524.2868,none,none
+22,D16c,Dragon-like,cant_aft,30,40,no,0.43493825,0.4795306,1524.2868,1521.4253,none,none
+22,D16c,Dragon-like,cant_roll,10,10,yes,0.43493825,0.43493825,1524.2868,1524.2868,none,none
+23,D16d,Dragon-like,station,0.1,0.1,yes,0.43813838,0.43813838,1583.7908,1583.7908,none,none
+23,D16d,Dragon-like,cant_fwd,20,20,yes,0.43813838,0.43813838,1583.7908,1583.7908,none,none
+23,D16d,Dragon-like,cant_aft,30,45,no,0.43813838,0.49692185,1583.7908,1573.2856,none,none
+23,D16d,Dragon-like,cant_roll,10,10,yes,0.43813838,0.43813838,1583.7908,1583.7908,none,none
+24,D16e,Dragon-like,station,0.1,0.1,yes,0.43900985,0.43900985,1539.1423,1539.1423,none,none
+24,D16e,Dragon-like,cant_fwd,20,20,yes,0.43900985,0.43900985,1539.1423,1539.1423,none,none
+24,D16e,Dragon-like,cant_aft,30,40,no,0.43900985,0.48053185,1539.1423,1539.1627,none,none
+24,D16e,Dragon-like,cant_roll,10,10,yes,0.43900985,0.43900985,1539.1423,1539.1423,none,none
